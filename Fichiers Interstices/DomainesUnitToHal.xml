@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Domaines>
+   <DomaineUnit id="CodeU1.CodeU2">
+      <NomDomaineHal>Correspondances HAL</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>Code HAL 1</DomaineHal>
+         <DomaineHal>code Hal 2</DomaineHal>
+         <DomaineHal>Code Hal 3</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.00">
+      <NomDomaineHal>Sciences de l'ingénieur + Automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.01">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.02">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.04">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.03">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.06">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.07">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="9.05">
+      <NomDomaineHal>Sciences de l'ingénieur + automatique / Robotique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.auto</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.00">
+      <NomDomaineHal>Chimie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.01">
+      <NomDomaineHal>Chimie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.03">
+      <NomDomaineHal>Chimie analytique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.anal</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.04">
+      <NomDomaineHal>Chimie inorganique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.inor</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.05">
+      <NomDomaineHal>Chimie organique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.orga</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.02">
+      <NomDomaineHal>Chimie théorique et/ou physique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.theo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.07">
+      <NomDomaineHal>Chimie théorique et/ou physique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.theo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.06">
+      <NomDomaineHal>Cristallographie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.cris</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="19.08">
+      <NomDomaineHal>Génie chimique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>chim.geni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.00">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.01">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.10">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.06">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.04">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.05">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.11">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique + électromagnétisme</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.elec</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.02">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique + matériaux</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.03">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.07">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.08">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="11.09">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.00">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.01">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.06">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.09">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.03">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.11">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.04">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.12">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.02">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.08">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.07">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.10">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.05">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="10.13">
+      <NomDomaineHal>Sciences de l'ingénieur + électronique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.tron</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.00">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.01">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.06">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.04">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.08">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.07">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.05">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.09">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.03">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.12">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.10">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.11">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.15">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.14">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.13">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="2.02">
+      <NomDomaineHal>Sciences de l'ingénieur + Énergie électrique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.nrj</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.00">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.01">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.03">
+      <NomDomaineHal>Structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.struct</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.07">
+      <NomDomaineHal>Structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.struct</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.09">
+      <NomDomaineHal>Géotechnique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.geotech</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.02">
+      <NomDomaineHal>Géotechnique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.geotech</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.04">
+      <NomDomaineHal>Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.05">
+      <NomDomaineHal>Infrastructures de transport</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.it</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.08">
+      <NomDomaineHal>Risques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.risq</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="7.06">
+      <NomDomaineHal>Construction hydraulique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.ch</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.00">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.07">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.09">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.05">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.04">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.10">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.11">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.03">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.02">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.01">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.06">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.08">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="8.12">
+      <NomDomaineHal>Sciences de l'ingénieur + génie civil</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.00">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.01">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.04">
+      <NomDomaineHal>Architectures matérielles</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ar</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.08">
+      <NomDomaineHal>Base de données</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-db</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.17">
+      <NomDomaineHal>Bio-informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-bi</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.02">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.18">
+      <NomDomaineHal>Traitement du texte et du document</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-tt</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.19">
+      <NomDomaineHal>Environnements Informatiques pour l'Apprentissage Humain</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.eiah</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.06">
+      <NomDomaineHal>Génie logiciel</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-se</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.15">
+      <NomDomaineHal>Informatique ubiquitaire</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-iu</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.10">
+      <NomDomaineHal>Intelligence artificielle</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ai</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.11">
+      <NomDomaineHal>Interface homme-machine</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-hc</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.03">
+      <NomDomaineHal>Calcul parallèle, distribué et partagé</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-dc</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.12">
+      <NomDomaineHal>Multimédia</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mm</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.05">
+      <NomDomaineHal>Langage de programmation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-pl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.13">
+      <NomDomaineHal>Synthèse d'image et réalité virtuelle</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-gr</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.09">
+      <NomDomaineHal>Cryptographie et sécurité</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-cr</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.07">
+      <NomDomaineHal>Système d'exploitation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-os</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.14">
+      <NomDomaineHal>Systèmes embarqués</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-es</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="13.16">
+      <NomDomaineHal>Web</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-wb</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.00">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.06">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.01">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.02">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.05">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.03">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="1.04">
+      <NomDomaineHal>Sciences de l'environnement + Ingénierie de l'environnement</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sde.ie</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.00">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.03">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.09">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.02">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.07">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.08">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.11">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.10">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.01">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.05">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.04">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="6.06">
+      <NomDomaineHal>Génie civil =&gt; Matériaux composites et construction</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.gciv.mat</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.00">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.01">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.03">
+      <NomDomaineHal>mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.05">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.04">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.08">
+      <NomDomaineHal>Informatique / Calcul formel</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-sc</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.06">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.02">
+      <NomDomaineHal>Mathématiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="22.07">
+      <NomDomaineHal>Probabilités + Statistiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>math.math-pr</DomaineHal>
+         <DomaineHal>math.math-st</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.00">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.09">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.12">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.01">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.02">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.03">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.07">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.05">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.11">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.08">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.04">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.06">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="5.10">
+      <NomDomaineHal>Mécanique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.00">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.01">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.04">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.02">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.03">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="4.05">
+      <NomDomaineHal>Mécanique des fluides</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.mefl</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.00">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.01">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.02">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.06">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.03">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.05">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.04">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="3.08">
+      <NomDomaineHal>Mécanique des solides + Mécanique des structures</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.stru</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.00">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.02">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.04">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.05">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.06">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.03">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.01">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="12.07">
+      <NomDomaineHal>Modélisation et simulation</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-mo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.00">
+      <NomDomaineHal>Sciences de l'ingénieur + Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.01">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.04">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.03">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.02">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.05">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="24.06">
+      <NomDomaineHal>Optique / photonique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.opti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.00">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.02">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.04">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.07">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.10">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.08">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.03">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.06">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.05">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.09">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.01">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.11">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.12">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="18.13">
+      <NomDomaineHal>Sciences de l'ingénieur + Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>spi.other</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="23.00">
+      <NomDomaineHal>Physique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="23.03">
+      <NomDomaineHal>Physique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="23.01">
+      <NomDomaineHal>Mécanique + Acoustique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.meca.acou</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="23.02">
+      <NomDomaineHal>Analyse de données, Statistiques et Probabilités</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>phys.phys.phys-data-an</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.00">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.01">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.05">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.04">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.06">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.07">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.02">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.03">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.08">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.09">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="17.10">
+      <NomDomaineHal>Informatique + Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.00">
+      <NomDomaineHal>Sciences de l'Homme et Société</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.02">
+      <NomDomaineHal>Droit</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.droit</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.01">
+      <NomDomaineHal>Économies et finances</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.eco</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.08">
+      <NomDomaineHal>Géographie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.geo</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.10">
+      <NomDomaineHal>Histoire, Philosophie et Sociologie des sciences</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.hisphilso</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.09">
+      <NomDomaineHal>Linguistique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.langue</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.03">
+      <NomDomaineHal>Économies et finances</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.eco</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.06">
+      <NomDomaineHal>Histoire, Philosophie et Sociologie des sciences</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.hisphilso</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.04">
+      <NomDomaineHal>Gestion et management</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.gestion</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.07">
+      <NomDomaineHal>Sociologie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.socio</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.05">
+      <NomDomaineHal>Philosophie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.phil</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="25.11">
+      <NomDomaineHal>Psychologie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>shs.psy</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="20.00">
+      <NomDomaineHal>Planète et univers + Sciences de la Terre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdu.stu</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="20.01">
+      <NomDomaineHal>Géologie appliquée + Hydrologie + météorologie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdu.stu.ag</DomaineHal>
+         <DomaineHal>sdu.stu.hy</DomaineHal>
+         <DomaineHal>sdu.stu.me</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="20.02">
+      <NomDomaineHal>Pétrographie</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdu.stu.pe</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="21.00">
+      <NomDomaineHal>Sciences du vivant</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdv</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="21.01">
+      <NomDomaineHal>Sciences agricoles + Agriculture, économie et politique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdv.sa</DomaineHal>
+         <DomaineHal>sdv.sa.aep</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="21.02">
+      <NomDomaineHal>Biochimie, Biologie Moléculaire</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdv.bbm</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="21.03">
+      <NomDomaineHal>Biotechnologies</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdv.bio</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="21.04">
+      <NomDomaineHal>Sciences pharmaceutiques</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>sdv.sp</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.00">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.01">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.02">
+      <NomDomaineHal>Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-oh</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.07">
+      <NomDomaineHal>Traitement du texte et du document</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-tt</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.05">
+      <NomDomaineHal>Intelligence artificielle</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ai</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.04">
+      <NomDomaineHal>Autre</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-oh</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.08">
+      <NomDomaineHal>Recherche d'information</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ir</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.03">
+      <NomDomaineHal>Cryptographie et sécurité</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-cr</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.06">
+      <NomDomaineHal>traitement des images</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ti</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="14.09">
+      <NomDomaineHal>Traitement du texte et du document</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-tt</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.00">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.10">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.13">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.08">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.03">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.12">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.07">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.04">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.05">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.09">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.06">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.02">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.11">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="16.01">
+      <NomDomaineHal>Réseaux et télécommunications</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ni</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.00">
+      <NomDomaineHal>Informatique</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.01">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.02">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.12">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.10">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.05">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.13">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.08">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.09">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.04">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.07">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.11">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.03">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+   <DomaineUnit id="15.06">
+      <NomDomaineHal>Traitement du signal et de l'image</NomDomaineHal>
+      <CodeDomainesHal>
+         <DomaineHal>info.info-ts</DomaineHal>
+      </CodeDomainesHal>
+   </DomaineUnit>
+</Domaines>

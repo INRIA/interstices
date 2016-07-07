@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:hal="http://hal.archives-ouvertes.fr/"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://api.archives-ouvertes.fr/documents/aofr-sword.xsd">
+   <text>
+      <body>
+         <listBibl>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Réalité augmentée : entre mythes et réalités</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">869821</idno>
+                           <affiliation ref="#struct-205123"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">100927</idno>
+                           <affiliation ref="#struct-205123"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-03-31</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_83629/realite-augmentee-entre-mythes-et-realites</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author">
+                        <term xml:lang="fr">réalité augmentée</term>
+                        <term xml:lang="fr">modèle 3D</term>
+                        <term xml:lang="fr">traitement image</term>
+                        <term xml:lang="fr">classification image</term>
+                     </keywords>
+                     <classCode scheme="halDomain" n="info.info-gr"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Intégrer des éléments virtuels dans des images réelles, en temps réel et en trois dimensions : comment fait-on ? À quoi cela sert-il ?</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Des robots au service des hommes</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">1275227</idno>
+                           <affiliation ref="#struct-415996"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">819980</idno>
+                           <affiliation ref="#struct-457347"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-03-30</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88305/des-robots-au-service-des-hommes</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author">
+                        <term xml:lang="fr">robotique humanoïde</term>
+                        <term xml:lang="fr">interaction homme-machine</term>
+                        <term xml:lang="fr">psychologie</term>
+                     </keywords>
+                     <classCode scheme="halDomain" n="spi.auto"/>
+                     <classCode scheme="halDomain" n="spi.auto"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Comprendre les interactions entre les robots et les humains pour faciliter leur acceptation, voilà un des défis qui anime la chercheuse Serena Ivaldi au quotidien. Elle nous en parle dans cet épisode du podcast audio. </abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">L'éveil des bébés robots</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="idhal">pyoudeyer</idno>
+                           <idno type="halauthor">232758</idno>
+                           <affiliation ref="#struct-60156"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-03-25</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88358/l-eveil-des-bebes-robots</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author">
+                        <term xml:lang="fr">curiosité</term>
+                        <term xml:lang="fr">neurosciences</term>
+                        <term xml:lang="fr">éducation</term>
+                     </keywords>
+                     <classCode scheme="halDomain" n="spi.auto"/>
+                     <classCode scheme="halDomain" n="info.info-ai"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Comment mieux comprendre le développement cognitif d’un enfant ? En mettant dans les mêmes conditions d’apprentissage un robot curieux.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Les données en question</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="idhal">sgrumbach</idno>
+                           <idno type="halauthor">1245432</idno>
+                           <affiliation ref="#struct-218317"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">97777</idno>
+                           <affiliation ref="#struct-141072"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-03-31</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_84069/les-donnees-en-question</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Au cœur de la connaissance et de l'information, les données ont peu à peu pris une importance qui nous dépasse. Mais qu'entend-on exactement par données ? Quels sont les enjeux autour de leur gestion ou de leur analyse ? Quels impacts sur la société ?</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Un logiciel capable de vérifier les faits en temps réel ?</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">154059</idno>
+                           <affiliation ref="#struct-247329"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">819980</idno>
+                           <affiliation ref="#struct-457347"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88301/un-logiciel-capable-de-verifier-les-faits-en-temps-reel</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Info ou intox ? Démêler le vrai du faux dans un flot torrentiel d'informations n'est pas toujours simple... Automatiser la vérification des faits, ou fact-checking, semble être une solution prometteuse pour s'assurer de la véracité des propos. Xavier Tannier nous en parle dans cet épisode du podcast audio.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">L’informatique de A à Z</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">1350276</idno>
+                           <affiliation ref="#struct-445889"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/c_24463/l-informatique-de-a-a-z</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Découvrez dans cet abécédaire, les notions fondamentales de la science informatique ! Chaque lettre illustrée renvoie à un mot choisi pour évoquer une facette de l'informatique et des mathématiques appliquées.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Les enjeux de la recherche en intelligence artificielle</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">565840</idno>
+                           <affiliation ref="#struct-267305"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_89081/les-enjeux-de-la-recherche-en-intelligence-artificielle</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Qu’est-ce que l’intelligence ? Est-ce la capacité à percevoir le monde, à prédire le futur immédiat ou lointain, ou à planifier une série d’actions pour atteindre un but ? Est-ce la capacité d’apprendre, ou celle d’appliquer son savoir à bon escient ? La définition est difficile à cerner.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Marvin Minsky, un père visionnaire de l'intelligence artificielle</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">48770</idno>
+                           <affiliation ref="#struct-34499"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88809/marvin-minsky-un-pere-visionnaire-de-l-intelligence-artificielle</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Marvin Minsky est mort le 24 janvier dernier. Ceux qui connaissent un peu l’histoire de l'intelligence artificielle associent son nom à la création de ce vaste domaine de recherche. </abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Au service des personnes fragiles</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">949882</idno>
+                           <affiliation ref="#struct-241669"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-19</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88360/au-service-des-personnes-fragiles</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Les robots seront-ils essentiels à la sauvegarde de l'autonomie des personnes fragiles ? Pour ce faire, un engin humanoïde multitâche serait moins efficace qu'une flottille d'appareils spécifiques travaillant en équipe...</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Une assistance numérique pour les personnes âgées : le projet DomAssist</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">1045730</idno>
+                           <affiliation ref="#struct-2332"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">98197</idno>
+                           <affiliation ref="#struct-2332"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">1181946</idno>
+                           <affiliation ref="#struct-2332"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-02-17</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_82365/une-assistance-numerique-pour-les-personnes-agees-le-projet-domassist</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Apporter une aide numérique pour maintenir à domicile les personnes âgées en perte d’autonomie et accompagner leurs aidants : c’est l’objectif de la plateforme DomAssist.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Décrypter les signaux du cerveau</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="idhal">agramfort</idno>
+                           <idno type="halauthor">365517</idno>
+                           <affiliation ref="#struct-162010"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">819980</idno>
+                           <affiliation ref="#struct-457347"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-01-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_88298/decrypter-les-signaux-du-cerveau</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Décrypter les signaux émis par le cerveau afin de mieux le comprendre, tel est le défi que s’est lancé le chercheur Alexandre Gramfort. Il nous en parle dans cet épisode du podcast audio. </abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Démixer la musique</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="idhal">antoine-liutkus</idno>
+                           <idno type="halauthor">995673</idno>
+                           <affiliation ref="#struct-420403"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="idhal">emmanuelv</idno>
+                           <idno type="halauthor">176768</idno>
+                           <affiliation ref="#struct-420403"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-01-29</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_84088/demixer-la-musique</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author">
+                        <term xml:lang="fr">musique</term>
+                        <term xml:lang="fr">traitement du signal</term>
+                        <term xml:lang="fr">séparation de sources</term>
+                     </keywords>
+                     <classCode scheme="halDomain" n="info.info-ni"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Lors du mixage, un morceau de musique est produit à partir du son séparé des différents instruments. La séparation de sources audio cherche à inverser cette étape.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Regard sur « À quoi rêvent les algorithmes »</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="idhal">maxime-amblard</idno>
+                           <idno type="halauthor">949515</idno>
+                           <affiliation ref="#struct-206040"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2016-01-22</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_87400/regard-sur-a-quoi-revent-les-algorithmes</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">À quoi rêvent les algorithmes ? Cette question, à la fois intrigante et empreinte de poésie, a suscité la curiosité d’un chercheur en informatique. Il nous livre ici sa lecture personnelle de l’ouvrage de Dominique Cardon.</abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Modéliser pour simuler le climat</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">690930</idno>
+                           <affiliation ref="#struct-1899"/>
+                        </author>
+                        <author role="aut">
+                           <idno type="halauthor">819980</idno>
+                           <affiliation ref="#struct-457347"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2015-12-21</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/p_87074/modeliser-pour-simuler-le-climat</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Comprendre les climats du passé et du présent pour prévoir le climat du futur, tel est le défi qui anime la communauté scientifique au sein du Pôle de modélisation du climat de l'IPSL. Marie-Alice Foujols nous présente les enjeux de leurs travaux dans cet épisode du podcast audio. </abstract>
+               </profileDesc>
+            </biblFull>
+            <biblFull>
+               <publicationStmt>
+                  <availability>
+                     <licence target="http://creativecommons.org/licenses/by-nc-nd/"/>
+                  </availability>
+               </publicationStmt>
+               <seriesStmt>
+                  <idno type="stamp" n="INRIA-MECSCI">Inria - Médiation Scientifique en Sciences du Numérique</idno>
+               </seriesStmt>
+               <notesStmt>
+                  <note type="popular" n="1"/>
+                  <note type="peer" n="1"/>
+                  <note type="audience" n="2"/>
+                  <note type="commentary">Test Interstices </note>
+               </notesStmt>
+               <sourceDesc>
+                  <biblStruct>
+                     <analytic>
+                        <title xml:lang="fr">Modéliser les interactions au fil du temps</title>
+                        <title xml:lang="fr" type="sub"/>
+                        <author role="aut">
+                           <idno type="halauthor">707641</idno>
+                           <affiliation ref="#struct-233"/>
+                        </author>
+                     </analytic>
+                     <monogr>
+                        <idno type="halJournalId">21050</idno>
+                        <imprint>
+                           <date type="datePub">2015-12-21</date>
+                        </imprint>
+                     </monogr>
+                     <ref type="seeAlso">https://interstices.info/jcms/ni_78367/modeliser-les-interactions-au-fil-du-temps</ref>
+                  </biblStruct>
+               </sourceDesc>
+               <profileDesc>
+                  <langUsage>
+                     <language ident="fr"/>
+                  </langUsage>
+                  <textClass>
+                     <keywords scheme="author"/>
+                     <classCode scheme="halTypology" n="ART"/>
+                  </textClass>
+                  <abstract xml:lang="fr">Suivis partout, tout le temps : nos téléphones mobiles, nos appareils photos, nos tablettes, nos montres et bientôt nos vêtements, tous ces objets du quotidien sont désormais capables d’enregistrer nos déplacements et nos interactions. Et permettent de les analyser, mais avec quels outils ?</abstract>
+               </profileDesc>
+            </biblFull>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

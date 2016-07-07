@@ -1,0 +1,4823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Auteurs>
+   <Auteur id="idInterstice">
+      <Prenom>prenom</Prenom>
+      <Nom>nom</Nom>
+      <IdAuteurAurehal>authorid</IdAuteurAurehal>
+      <IdHal>IDHAL</IdHal>
+      <IdHalAlpha/>
+      <Service>service</Service>
+      <Organisme>organism</Organisme>
+      <IdAffiliationAurehal>IDAffiliation</IdAffiliationAurehal>
+      <Email>EMAIL</Email>
+   </Auteur>
+   <Auteur id="c_10158">
+      <Prenom>Georges</Prenom>
+      <Nom>Gallais</Nom>
+      <IdAuteurAurehal>64167</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RECHERCHE</Service>
+      <Organisme>VU Log</Organisme>
+      <IdAffiliationAurehal>225990</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_10180">
+      <Prenom>Dominique</Prenom>
+      <Nom>Lavenier</Nom>
+      <IdAuteurAurehal>942485</IdAuteurAurehal>
+      <IdHal>1401</IdHal>
+      <IdHalAlpha>dominique-lavenier</IdHalAlpha>
+      <Service>SYMBIOSE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>2535</IdAffiliationAurehal>
+      <Email>lavenier@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_10301">
+      <Prenom>Laurent</Prenom>
+      <Nom>Viennot</Nom>
+      <IdAuteurAurehal>791918</IdAuteurAurehal>
+      <IdHal>1841</IdHal>
+      <IdHalAlpha>laurentviennot</IdHalAlpha>
+      <Service>GANG</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454653</IdAffiliationAurehal>
+      <Email>Laurent.Viennot@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_10316">
+      <Prenom>Christine</Prenom>
+      <Nom>Leininger</Nom>
+      <IdAuteurAurehal>819979</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_10414">
+      <Prenom>Christophe</Prenom>
+      <Nom>Godin</Nom>
+      <IdAuteurAurehal>379769</IdAuteurAurehal>
+      <IdHal>1509</IdHal>
+      <IdHalAlpha>christophe-godin</IdHalAlpha>
+      <Service>VIRTUAL PLANTS</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>21925</IdAffiliationAurehal>
+      <Email>christophe.godin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_10415">
+      <Prenom>Hervé</Prenom>
+      <Nom>Sinoquet</Nom>
+      <IdAuteurAurehal>1288266</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PIAF</Service>
+      <Organisme>Institut National de la Recherche Agronomique</Organisme>
+      <IdAffiliationAurehal>26029</IdAffiliationAurehal>
+      <Email>Herve.Sinoquet@clermont.inra.fr</Email>
+   </Auteur>
+   <Auteur id="c_10416">
+      <Prenom>Évelyne</Prenom>
+      <Nom>Costes</Nom>
+      <IdAuteurAurehal>84448</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BIOLOGIE DU DÉVELOPPEMENT DES ESPÈCES PÉRENNES CULTIVÉES</Service>
+      <Organisme>Institut National de la Recherche Agronomique</Organisme>
+      <IdAffiliationAurehal>12799</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_10580">
+      <Prenom>Marc</Prenom>
+      <Nom>Thiriet</Nom>
+      <IdAuteurAurehal>669495</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>REO</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>454684</IdAffiliationAurehal>
+      <Email>marc.thiriet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_10757">
+      <Prenom>Arkadiusz</Prenom>
+      <Nom>Orlowski</Nom>
+      <IdAuteurAurehal>1350238</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT PHYSIQUE</Service>
+      <Organisme>Académie des sciences de Pologne</Organisme>
+      <IdAffiliationAurehal>457613</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_10975">
+      <Prenom>Jan</Prenom>
+      <Nom>Traas</Nom>
+      <IdAuteurAurehal>1037946</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE REPRODUCTION ET DÉVELOPPEMENT DE PLANTES</Service>
+      <Organisme>Institut National de la Recherche Agronomique</Organisme>
+      <IdAffiliationAurehal>772</IdAffiliationAurehal>
+      <Email>jan.traas@ens-lyon.fr</Email>
+   </Auteur>
+   <Auteur id="c_10997">
+      <Prenom>Marie-Christine</Prenom>
+      <Nom>Rousset</Nom>
+      <IdAuteurAurehal>59291</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE LIG</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email>Marie-Christine.Rousset@imag.fr</Email>
+   </Auteur>
+   <Auteur id="c_11493">
+      <Prenom>Nathalie</Prenom>
+      <Nom>Van de Wiele</Nom>
+      <IdAuteurAurehal>229547</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIGNANT</Service>
+      <Organisme>ePrep</Organisme>
+      <IdAffiliationAurehal>47869</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_12235">
+      <Prenom>Hervé</Prenom>
+      <Nom>Delingette</Nom>
+      <IdAuteurAurehal>1036051</IdAuteurAurehal>
+      <IdHal>2424</IdHal>
+      <IdHalAlpha>herve-delingette</IdHalAlpha>
+      <Service>ASCLEPIOS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>30281</IdAffiliationAurehal>
+      <Email>Herve.Delingette@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_12248">
+      <Prenom>Jean-Michel</Prenom>
+      <Nom>Hélary</Nom>
+      <IdAuteurAurehal>164286</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IFSIC</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>7350</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_12351">
+      <Prenom>Anne</Prenom>
+      <Nom>Plettener</Nom>
+      <IdAuteurAurehal>1350247</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_12796">
+      <Prenom>Olivier</Prenom>
+      <Nom>Bernard</Nom>
+      <IdAuteurAurehal>525567</IdAuteurAurehal>
+      <IdHal>5612</IdHal>
+      <IdHalAlpha>olivier-bernard</IdHalAlpha>
+      <Service>COMORE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2455</IdAffiliationAurehal>
+      <Email>olivier.bernard@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_12905">
+      <Prenom>Xavier</Prenom>
+      <Nom>Müller</Nom>
+      <IdAuteurAurehal>85282</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_12957">
+      <Prenom>Gilles</Prenom>
+      <Nom>Lachaud</Nom>
+      <IdAuteurAurehal>1125062</IdAuteurAurehal>
+      <IdHal>4421</IdHal>
+      <IdHalAlpha>gilles-lachaud</IdHalAlpha>
+      <Service>INSTITUT DE MATHÉMATIQUES DE LUMINY</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>892</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_12976">
+      <Prenom>François</Prenom>
+      <Nom>Baccelli</Nom>
+      <IdAuteurAurehal>1321530</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>TREC</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2443</IdAffiliationAurehal>
+      <Email>francois.baccelli@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_13040">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Franceschini</Nom>
+      <IdAuteurAurehal>361280</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BIOROBOTIQUE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>391141</IdAffiliationAurehal>
+      <Email>nicolas.franceschini@univmed.fr</Email>
+   </Auteur>
+   <Auteur id="c_13351">
+      <Prenom>Philippe</Prenom>
+      <Nom>Jorrand</Nom>
+      <IdAuteurAurehal>790</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE LIG</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email>philippe.jorrand@imag.fr</Email>
+   </Auteur>
+   <Auteur id="c_13361">
+      <Prenom>Jean-Pierre</Prenom>
+      <Nom>Merlet</Nom>
+      <IdAuteurAurehal>949882</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HEPHAISTOS</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>241669</IdAffiliationAurehal>
+      <Email>Jean-Pierre.Merlet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_14021">
+      <Prenom>Olivier</Prenom>
+      <Nom>Ridoux</Nom>
+      <IdAuteurAurehal>64540</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIS</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>26628</IdAffiliationAurehal>
+      <Email>Olivier.Ridoux@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_14506">
+      <Prenom>Anne</Prenom>
+      <Nom>Lefèvre-Balleydier</Nom>
+      <IdAuteurAurehal>1350248</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_14596">
+      <Prenom>Thierry</Prenom>
+      <Nom>Priol</Nom>
+      <IdAuteurAurehal>52287</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PARIS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2526</IdAffiliationAurehal>
+      <Email>Thierry.Priol@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_14721">
+      <Prenom>Fabien</Prenom>
+      <Nom>Spindler</Nom>
+      <IdAuteurAurehal>558803</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LAGADIC</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2520</IdAffiliationAurehal>
+      <Email>fabien.spindler@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_14865">
+      <Prenom>Alexis</Prenom>
+      <Nom>Arnaud</Nom>
+      <IdAuteurAurehal>1269328</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CAPS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2512</IdAffiliationAurehal>
+      <Email>alexis.arnaud@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_14866">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Puaut</Nom>
+      <IdAuteurAurehal>656969</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CAPS</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>2512</IdAffiliationAurehal>
+      <Email>Isabelle.Puaut@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_14933">
+      <Prenom>Gérard</Prenom>
+      <Nom>Giraudon</Nom>
+      <IdAuteurAurehal>102318</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRECTION</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>34586</IdAffiliationAurehal>
+      <Email>gerard.giraudon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_14959">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Constans</Nom>
+      <IdAuteurAurehal>1350249</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_15267">
+      <Prenom>Pierre</Prenom>
+      <Nom>Alliez</Nom>
+      <IdAuteurAurehal>734180</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GEOMETRICA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>74750</IdAffiliationAurehal>
+      <Email>Pierre.Alliez@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_15661">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Prost</Nom>
+      <IdAuteurAurehal>982852</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE LIG</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_15706">
+      <Prenom>David</Prenom>
+      <Nom>Cohen-Steiner</Nom>
+      <IdAuteurAurehal>886394</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GEOMETRICA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>74750</IdAffiliationAurehal>
+      <Email>David.Cohen-Steiner@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_16034">
+      <Prenom>Bernard</Prenom>
+      <Nom>Mourrain</Nom>
+      <IdAuteurAurehal>811190</IdAuteurAurehal>
+      <IdHal>397</IdHal>
+      <IdHalAlpha>bernard-mourrain</IdHalAlpha>
+      <Service>GALAAD</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2461</IdAffiliationAurehal>
+      <Email>Bernard.Mourrain@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_16112">
+      <Prenom>Moncef</Prenom>
+      <Nom>Mlouka</Nom>
+      <IdAuteurAurehal>1350250</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>AMISA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_16303">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Vladyslav</Nom>
+      <IdAuteurAurehal>1350255</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_16371">
+      <Prenom>Michel</Prenom>
+      <Nom>Serres</Nom>
+      <IdAuteurAurehal>786060</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PHILOSOPHE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>445889</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_16500">
+      <Prenom>Sylvain</Prenom>
+      <Nom>Pion</Nom>
+      <IdAuteurAurehal>75808</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GEOMETRICA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>74750</IdAffiliationAurehal>
+      <Email>Sylvain.Pion@sophia.inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_16502">
+      <Prenom>Olivier</Prenom>
+      <Nom>Devillers</Nom>
+      <IdAuteurAurehal>1182102</IdAuteurAurehal>
+      <IdHal>2232</IdHal>
+      <IdHalAlpha>olivierdevillers</IdHalAlpha>
+      <Service>GEOMETRICA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>74750</IdAffiliationAurehal>
+      <Email>Olivier.Devillers@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_16859">
+      <Prenom>René</Prenom>
+      <Nom>Quiniou</Nom>
+      <IdAuteurAurehal>667084</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DREAM</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2516</IdAffiliationAurehal>
+      <Email>Rene.Quiniou@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_16869">
+      <Prenom>Pierre</Prenom>
+      <Nom>Jannin</Nom>
+      <IdAuteurAurehal>548544</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>VISAGES</Service>
+      <Organisme>Institut National de la Santé et de la Recherche Médicale</Organisme>
+      <IdAffiliationAurehal>11869</IdAffiliationAurehal>
+      <Email>pierre.jannin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_17262">
+      <Prenom>François-Xavier</Prenom>
+      <Nom>Le Dimet</Nom>
+      <IdAuteurAurehal>97960</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MOISE</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>31951</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17362">
+      <Prenom>Yan</Prenom>
+      <Nom>Georget</Nom>
+      <IdAuteurAurehal>1350256</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INGÉNIEUR</Service>
+      <Organisme>Come&amp;Stay</Organisme>
+      <IdAffiliationAurehal>457200</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17549">
+      <Prenom>Marie-Odile</Prenom>
+      <Nom>Cordier</Nom>
+      <IdAuteurAurehal>1113100</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DREAM</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>2516</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17550">
+      <Prenom>Élisa</Prenom>
+      <Nom>Fromont</Nom>
+      <IdAuteurAurehal>638462</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE HUBERT CURIEN</Service>
+      <Organisme>Université de Saint Etienne</Organisme>
+      <IdAffiliationAurehal>17835</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17551">
+      <Prenom>François</Prenom>
+      <Nom>Portet</Nom>
+      <IdAuteurAurehal>1096465</IdAuteurAurehal>
+      <IdHal>1069</IdHal>
+      <IdHalAlpha>francois-portet</IdHalAlpha>
+      <Service>LABORATOIRE LIG</Service>
+      <Organisme>Institut National Polytechnique de Grenoble</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17783">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Deroche</Nom>
+      <IdAuteurAurehal>1350257</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SYMBIOSE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2535</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_17784">
+      <Prenom>Mathieu</Prenom>
+      <Nom>Giraud</Nom>
+      <IdAuteurAurehal>1264079</IdAuteurAurehal>
+      <IdHal>279</IdHal>
+      <IdHalAlpha>magiraud</IdHalAlpha>
+      <Service>LIFL</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>2546</IdAffiliationAurehal>
+      <Email>mathieu.giraud@univ-lille1.fr</Email>
+   </Auteur>
+   <Auteur id="c_17802">
+      <Prenom>Fabien</Prenom>
+      <Nom>Gandon</Nom>
+      <IdAuteurAurehal>827904</IdAuteurAurehal>
+      <IdHal>3342</IdHal>
+      <IdHalAlpha>fabien-gandon</IdHalAlpha>
+      <Service>EDELWEISS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>35546</IdAffiliationAurehal>
+      <Email>fabien.gandon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_17920">
+      <Prenom>Xavier</Prenom>
+      <Nom>Morandi</Nom>
+      <IdAuteurAurehal>1323271</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>VISAGES</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>11869</IdAffiliationAurehal>
+      <Email>xavier.morandi@univ-rennes1.fr</Email>
+   </Auteur>
+   <Auteur id="c_18110">
+      <Prenom>Yann</Prenom>
+      <Nom>Brenier</Nom>
+      <IdAuteurAurehal>100286</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE JEAN-ALEXANDRE DIEUDONNÉ</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>199970</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_18250">
+      <Prenom>Gérard</Prenom>
+      <Nom>Berry</Nom>
+      <IdAuteurAurehal>97754</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INDES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>122081</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_18253">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Dias</Nom>
+      <IdAuteurAurehal>944784</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE MATHÉMATIQUES ET DE LEURS APPLICATIONS</Service>
+      <Organisme>Ecole Normale Supérieure de Cachan</Organisme>
+      <IdAffiliationAurehal>89581</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_18255">
+      <Prenom>Rose</Prenom>
+      <Nom>Dieng-Kuntz</Nom>
+      <IdAuteurAurehal>98115</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>EDELWEISS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>35546</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_19305">
+      <Prenom>Sabine</Prenom>
+      <Nom>Coquillart</Nom>
+      <IdAuteurAurehal>1329148</IdAuteurAurehal>
+      <IdHal>5405</IdHal>
+      <IdHalAlpha>jingtao-chen</IdHalAlpha>
+      <Service>I3D</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2379</IdAffiliationAurehal>
+      <Email>sabine.coquillart@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_19378">
+      <Prenom>Jean-Paul</Prenom>
+      <Nom>Delahaye</Nom>
+      <IdAuteurAurehal>1214475</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIFL</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>2546</IdAffiliationAurehal>
+      <Email>jean-paul.delahaye@lifl.fr</Email>
+   </Auteur>
+   <Auteur id="c_19401">
+      <Prenom>Guillaume</Prenom>
+      <Nom>Perrin</Nom>
+      <IdAuteurAurehal>140146</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ARIANA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2450</IdAffiliationAurehal>
+      <Email>guillaume.perrin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_19402">
+      <Prenom>Xavier</Prenom>
+      <Nom>Descombes</Nom>
+      <IdAuteurAurehal>605158</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ARIANA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2450</IdAffiliationAurehal>
+      <Email>Xavier.Descombes@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_19403">
+      <Prenom>Josiane</Prenom>
+      <Nom>Zerubia</Nom>
+      <IdAuteurAurehal>1232600</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ARIANA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2450</IdAffiliationAurehal>
+      <Email>Josiane.Zerubia@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_19657">
+      <Prenom>Christian</Prenom>
+      <Nom>Jutten</Nom>
+      <IdAuteurAurehal>1091583</IdAuteurAurehal>
+      <IdHal>4384</IdHal>
+      <IdHalAlpha>christianjutten</IdHalAlpha>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email>christian.jutten@gipsa-lab.grenoble-inp.fr</Email>
+   </Auteur>
+   <Auteur id="c_20008">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Bimbot</Nom>
+      <IdAuteurAurehal>131938</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>METISS</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>2522</IdAffiliationAurehal>
+      <Email>frederic.bimbot@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_20009">
+      <Prenom>Gilles</Prenom>
+      <Nom>Gonon</Nom>
+      <IdAuteurAurehal>555809</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>METISS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2522</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20305">
+      <Prenom>Philippe</Prenom>
+      <Nom>Robert</Nom>
+      <IdAuteurAurehal>163930</IdAuteurAurehal>
+      <IdHal>456</IdHal>
+      <IdHalAlpha>philippe-robert</IdHalAlpha>
+      <Service>RAP</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454682</IdAffiliationAurehal>
+      <Email>Philippe.Robert@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_20355">
+      <Prenom>François</Prenom>
+      <Nom>Bouteruche</Nom>
+      <IdAuteurAurehal>597365</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE COMPÉTENCES BUSINESS INTELLIGENCE AND BACK OFFICE
+            PROCESS</Service>
+      <Organisme>Orange Business Services</Organisme>
+      <IdAffiliationAurehal>303581</IdAffiliationAurehal>
+      <Email>Francois.Bouteruche@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_20357">
+      <Prenom>Sébastien</Prenom>
+      <Nom>Macé</Nom>
+      <IdAuteurAurehal>772892</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CVC</Service>
+      <Organisme>Université Autonome de Barcelone</Organisme>
+      <IdAffiliationAurehal>19095</IdAffiliationAurehal>
+      <Email>Sebastien.Mace@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_20358">
+      <Prenom>Éric</Prenom>
+      <Nom>Anquetil</Nom>
+      <IdAuteurAurehal>675329</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IMADOC</Service>
+      <Organisme>Institut National des Sciences Appliquées de Rennes</Organisme>
+      <IdAffiliationAurehal>2504</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20464">
+      <Prenom>Anne</Prenom>
+      <Nom>Canteaut</Nom>
+      <IdAuteurAurehal>768739</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SECRET</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454686</IdAffiliationAurehal>
+      <Email>anne.canteaut@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_20776">
+      <Prenom>Marianne</Prenom>
+      <Nom>Delorme</Nom>
+      <IdAuteurAurehal>463206</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE L'INFORMATIQUE DU PARALLÉLISME</Service>
+      <Organisme>Ecole Normale Supérieure de Lyon</Organisme>
+      <IdAffiliationAurehal>35418</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20777">
+      <Prenom>Jacques</Prenom>
+      <Nom>Mazoyer</Nom>
+      <IdAuteurAurehal>463207</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE L'INFORMATIQUE DU PARALLÉLISME</Service>
+      <Organisme>Ecole Normale Supérieure de Lyon</Organisme>
+      <IdAffiliationAurehal>35418</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20794">
+      <Prenom>Leïla</Prenom>
+      <Nom>Rhaouti</Nom>
+      <IdAuteurAurehal>1012290</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ONDES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2432</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20800">
+      <Prenom>Minh</Prenom>
+      <Nom>Ha Duong</Nom>
+      <IdAuteurAurehal>601</IdAuteurAurehal>
+      <IdHal>521</IdHal>
+      <IdHalAlpha>minh-ha-duong</IdHalAlpha>
+      <Service>CIRED</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>135977</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20801">
+      <Prenom>Pierre</Prenom>
+      <Nom>Matarasso</Nom>
+      <IdAuteurAurehal>75768</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE INTERNATIONAL DE RECHERCHE SUR L'ENVIRONNEMENT ET LE
+            DÉVELOPPEMENT</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>135977</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_20817">
+      <Prenom>Olivier</Prenom>
+      <Nom>Brandouy</Nom>
+      <IdAuteurAurehal>1329529</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE LILLE-ÉCONOMIE-MANAGEMENT</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>413157</IdAffiliationAurehal>
+      <Email>brandouy.iae@univ-paris1.fr</Email>
+   </Auteur>
+   <Auteur id="c_20818">
+      <Prenom>Philippe</Prenom>
+      <Nom>Mathieu</Nom>
+      <IdAuteurAurehal>1038037</IdAuteurAurehal>
+      <IdHal>8747</IdHal>
+      <IdHalAlpha>pmathieu</IdHalAlpha>
+      <Service>LIFL</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>2546</IdAffiliationAurehal>
+      <Email>philippe.mathieu@univ-lille1.fr</Email>
+   </Auteur>
+   <Auteur id="c_21233">
+      <Prenom>Emmanuel</Prenom>
+      <Nom>Baccelli</Nom>
+      <IdAuteurAurehal>98118</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HIPERCOM</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>70767</IdAffiliationAurehal>
+      <Email>Emmanuel.Baccelli@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_21896">
+      <Prenom>Emmanuelle</Prenom>
+      <Nom>Lebhar</Nom>
+      <IdAuteurAurehal>1028567</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE MODÉLISATION MATHÉMATIQUE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>1812</IdAffiliationAurehal>
+      <Email>Emmanuelle.Lebhar@liafa.jussieu.fr</Email>
+   </Auteur>
+   <Auteur id="c_21897">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Schabanel</Nom>
+      <IdAuteurAurehal>4144</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE ALGORITHMIQUE: FONDEMENTS ET
+            APPLICATIONS</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>1033</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_21920">
+      <Prenom>Olivier</Prenom>
+      <Nom>Perriquet</Nom>
+      <IdAuteurAurehal>1350258</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PLASTICIEN</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>445889</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_21953">
+      <Prenom>Françoise</Prenom>
+      <Nom>Combes</Nom>
+      <IdAuteurAurehal>1190635</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'ÉTUDE DU RAYONNEMENT ET DE LA MATIÈRE EN
+            ASTROPHYSIQUE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>165</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22160">
+      <Prenom>Serge</Prenom>
+      <Nom>Planton</Nom>
+      <IdAuteurAurehal>233677</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GROUPE D'ÉTUDE DE L'ATMOSPHÈRE MÉTÉOROLOGIQUE</Service>
+      <Organisme>Météo-France Centre national de recherches météorologiques</Organisme>
+      <IdAffiliationAurehal>223118</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22567">
+      <Prenom>Donald</Prenom>
+      <Nom>Weingarten</Nom>
+      <IdAuteurAurehal>1350260</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE RECHERCHE THOMAS J. WATSON</Service>
+      <Organisme>IBM</Organisme>
+      <IdAffiliationAurehal>74701</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22591">
+      <Prenom>Laurent</Prenom>
+      <Nom>Villard</Nom>
+      <IdAuteurAurehal>312540</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE RECHERCHES EN PHYSIQUE DES PLASMAS</Service>
+      <Organisme>École Polytechnique Fédérale de Lausanne</Organisme>
+      <IdAffiliationAurehal>452676</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22607">
+      <Prenom>Christine</Prenom>
+      <Nom>Genest</Nom>
+      <IdAuteurAurehal>1350263</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RETRAITÉ</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>307087</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22668">
+      <Prenom>Raoul</Prenom>
+      <Nom>Robert</Nom>
+      <IdAuteurAurehal>316937</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT FOURIER</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>21</IdAffiliationAurehal>
+      <Email>Raoul.Robert@ujf-grenoble.fr</Email>
+   </Auteur>
+   <Auteur id="c_22673">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Cazals</Nom>
+      <IdAuteurAurehal>623991</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ABS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>51872</IdAffiliationAurehal>
+      <Email>Frederic.Cazals@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_22885">
+      <Prenom>Guy</Prenom>
+      <Nom>Vantomme</Nom>
+      <IdAuteurAurehal>1350264</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CPAV</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>457587</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_22886">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Blondel</Nom>
+      <IdAuteurAurehal>1126923</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ALCOVE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56010</IdAffiliationAurehal>
+      <Email>frederic-f.blondel@edf.fr</Email>
+   </Auteur>
+   <Auteur id="c_24030">
+      <Prenom>Sylvain</Prenom>
+      <Nom>Gelly</Nom>
+      <IdAuteurAurehal>71529</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RECHERCHE</Service>
+      <Organisme>Google</Organisme>
+      <IdAffiliationAurehal>133267</IdAffiliationAurehal>
+      <Email>Sylvain.Gelly@lri.fr</Email>
+   </Auteur>
+   <Auteur id="c_24282">
+      <Prenom>Dominique</Prenom>
+      <Nom>Chapelle</Nom>
+      <IdAuteurAurehal>673190</IdAuteurAurehal>
+      <IdHal>7549</IdHal>
+      <IdHalAlpha>dominique-chapelle</IdHalAlpha>
+      <Service>MACS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2425</IdAffiliationAurehal>
+      <Email>dominique.chapelle@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_24283">
+      <Prenom>Miguel</Prenom>
+      <Nom>Fernandez</Nom>
+      <IdAuteurAurehal>1312681</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>REO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454684</IdAffiliationAurehal>
+      <Email>mfernf@unileon.es</Email>
+   </Auteur>
+   <Auteur id="c_24284">
+      <Prenom>Philippe</Prenom>
+      <Nom>Moireau</Nom>
+      <IdAuteurAurehal>554023</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MACS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2425</IdAffiliationAurehal>
+      <Email>philippe.moireau@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_24285">
+      <Prenom>Maxime</Prenom>
+      <Nom>Sermesant</Nom>
+      <IdAuteurAurehal>68266</IdAuteurAurehal>
+      <IdHal>2423</IdHal>
+      <IdHalAlpha>maxime-sermesant</IdHalAlpha>
+      <Service>ASCLEPIOS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>30281</IdAffiliationAurehal>
+      <Email>Maxime.Sermesant@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_24368">
+      <Prenom>Joanna</Prenom>
+      <Nom>Jongwane</Nom>
+      <IdAuteurAurehal>819980</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRCOM</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_24435">
+      <Prenom>Michel</Prenom>
+      <Nom>Beaudouin - Lafon</Nom>
+      <IdAuteurAurehal>685661</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE RECHERCHE EN INFORMATIQUE</Service>
+      <Organisme>Université Paris Sud</Organisme>
+      <IdAffiliationAurehal>2544</IdAffiliationAurehal>
+      <Email>mbl@lri.fr</Email>
+   </Auteur>
+   <Auteur id="c_25242">
+      <Prenom>Jérôme</Prenom>
+      <Nom>Harmand</Nom>
+      <IdAuteurAurehal>1049572</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MERE</Service>
+      <Organisme>Institut National de la Recherche Agronomique</Organisme>
+      <IdAffiliationAurehal>2468</IdAffiliationAurehal>
+      <Email>harmand@supagro.inra.fr</Email>
+   </Auteur>
+   <Auteur id="c_25243">
+      <Prenom>Claude</Prenom>
+      <Nom>Lobry</Nom>
+      <IdAuteurAurehal>1167514</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MERE</Service>
+      <Organisme>Université de Nice</Organisme>
+      <IdAffiliationAurehal>2468</IdAffiliationAurehal>
+      <Email>e-mailclaude.lobry@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_25244">
+      <Prenom>Alain</Prenom>
+      <Nom>Rapaport</Nom>
+      <IdAuteurAurehal>1168572</IdAuteurAurehal>
+      <IdHal>7738</IdHal>
+      <IdHalAlpha>alain-rapaport</IdHalAlpha>
+      <Service>MERE</Service>
+      <Organisme>Institut National de la Recherche Agronomique</Organisme>
+      <IdAffiliationAurehal>2468</IdAffiliationAurehal>
+      <Email>rapaport@supagro.inra.fr</Email>
+   </Auteur>
+   <Auteur id="c_25907">
+      <Prenom>Benjamin</Prenom>
+      <Nom>Werner</Nom>
+      <IdAuteurAurehal>97604</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>TYPICAL</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>55047</IdAffiliationAurehal>
+      <Email>benjamin.werner@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_25984">
+      <Prenom>Dennis</Prenom>
+      <Nom>Shasha</Nom>
+      <IdAuteurAurehal>448025</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>COURANT INSTITUTE OF MATHEMATICAL SCIENCES</Service>
+      <Organisme>Université de New York</Organisme>
+      <IdAffiliationAurehal>224472</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_26079">
+      <Prenom>Yann</Prenom>
+      <Nom>Busnel</Nom>
+      <IdAuteurAurehal>548526</IdAuteurAurehal>
+      <IdHal>823</IdHal>
+      <IdHalAlpha>yann-busnel</IdHalAlpha>
+      <Service>ATLAS-GDD</Service>
+      <Organisme>Université de Nantes</Organisme>
+      <IdAffiliationAurehal>2501</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_26591">
+      <Prenom>Patrick</Prenom>
+      <Nom>Gros</Nom>
+      <IdAuteurAurehal>733242</IdAuteurAurehal>
+      <IdHal>894</IdHal>
+      <IdHalAlpha>patrick-gros</IdHalAlpha>
+      <Service>TEXMEX</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2538</IdAffiliationAurehal>
+      <Email>patrick.gros@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_26898">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Maugis</Nom>
+      <IdAuteurAurehal>1350265</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_26964">
+      <Prenom>Chantal</Prenom>
+      <Nom>Enguehard</Nom>
+      <IdAuteurAurehal>111996</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE DE NANTES ATLANTIQUE</Service>
+      <Organisme>Université de Nantes</Organisme>
+      <IdAffiliationAurehal>95421</IdAffiliationAurehal>
+      <Email>chantal.enguehard@univ-nantes.fr</Email>
+   </Auteur>
+   <Auteur id="c_26995">
+      <Prenom>Jean-Michel</Prenom>
+      <Nom>Prima</Nom>
+      <IdAuteurAurehal>1350266</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_27088">
+      <Prenom>Nazim</Prenom>
+      <Nom>Fatès</Nom>
+      <IdAuteurAurehal>661916</IdAuteurAurehal>
+      <IdHal>1369</IdHal>
+      <IdHalAlpha>nazim-fates</IdHalAlpha>
+      <Service>MAIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205124</IdAffiliationAurehal>
+      <Email>nazim.fates@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_28113">
+      <Prenom>Sverre</Prenom>
+      <Nom>Jarp</Nom>
+      <IdAuteurAurehal>1350267</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>OPENLAB</Service>
+      <Organisme>Organisation européenne pour la recherche nucléaire (CERN)</Organisme>
+      <IdAffiliationAurehal>145386</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28126">
+      <Prenom>Florence</Prenom>
+      <Nom>Bertails</Nom>
+      <IdAuteurAurehal>366008</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BIPOP</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2374</IdAffiliationAurehal>
+      <Email>florence.bertails@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_28127">
+      <Prenom>Basile</Prenom>
+      <Nom>Audoly</Nom>
+      <IdAuteurAurehal>67870</IdAuteurAurehal>
+      <IdHal>3006</IdHal>
+      <IdHalAlpha>basile-audoly</IdHalAlpha>
+      <Service>LABORATOIRE DE MODÉLISATION EN MÉCANIQUE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>1137</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28129">
+      <Prenom>Marie-Paule</Prenom>
+      <Nom>Cani</Nom>
+      <IdAuteurAurehal>1280415</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>EVASION</Service>
+      <Organisme>Institut national Polytechnique de Grenoble</Organisme>
+      <IdAffiliationAurehal>2396</IdAffiliationAurehal>
+      <Email>Marie-Paule.Cani@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_28143">
+      <Prenom>Chris</Prenom>
+      <Nom>Poultney</Nom>
+      <IdAuteurAurehal>1350268</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CAT</Service>
+      <Organisme>Université de New York</Organisme>
+      <IdAffiliationAurehal>457585</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28144">
+      <Prenom>Monty</Prenom>
+      <Nom>Faidley</Nom>
+      <IdAuteurAurehal>1350269</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INGÉNIEUR</Service>
+      <Organisme>ChoicePoint Government Services</Organisme>
+      <IdAffiliationAurehal>457199</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28325">
+      <Prenom>Pascal</Prenom>
+      <Nom>Guitton</Nom>
+      <IdAuteurAurehal>1255854</IdAuteurAurehal>
+      <IdHal>6181</IdHal>
+      <IdHalAlpha>pascal-guitton</IdHalAlpha>
+      <Service>IPARLA</Service>
+      <Organisme>Université Bordeaux</Organisme>
+      <IdAffiliationAurehal>55996</IdAffiliationAurehal>
+      <Email>Pascal.Guitton@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_28966">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Graner</Nom>
+      <IdAuteurAurehal>1350275</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CVC</Service>
+      <Organisme>Université Paris Sud</Organisme>
+      <IdAffiliationAurehal>457590</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28968">
+      <Prenom>Sébastien</Prenom>
+      <Nom>Descotes - Genon</Nom>
+      <IdAuteurAurehal>67938</IdAuteurAurehal>
+      <IdHal>2574</IdHal>
+      <IdHalAlpha>sebastien-descotes-genon</IdHalAlpha>
+      <Service>LABORATOIRE DE PHYSIQUE THÉORIQUE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>11</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_28972">
+      <Prenom>Sophie</Prenom>
+      <Nom>Auvin</Nom>
+      <IdAuteurAurehal>1350276</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GRAPHISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>445889</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_30629">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Redon</Nom>
+      <IdAuteurAurehal>1099416</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>NANO-D</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>55137</IdAffiliationAurehal>
+      <Email>stephane.redon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_31334">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Donikian</Nom>
+      <IdAuteurAurehal>102079</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BUNRAKU</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>27423</IdAffiliationAurehal>
+      <Email>stephane.donikian@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_31447">
+      <Prenom>Jacques</Prenom>
+      <Nom>Vairon</Nom>
+      <IdAuteurAurehal>114197</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CALCUL, 3D ET RÉALITÉ VIRTUELLE</Service>
+      <Organisme>Bureau des recherches géologiques et minières</Organisme>
+      <IdAffiliationAurehal>18404</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_31667">
+      <Prenom>Bruno</Prenom>
+      <Nom>Cessac</Nom>
+      <IdAuteurAurehal>213226</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>NEUROMATHCOMP</Service>
+      <Organisme>Université de Nice</Organisme>
+      <IdAffiliationAurehal>87563</IdAffiliationAurehal>
+      <Email>Bruno.Cessac@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_31703">
+      <Prenom>Azeddine</Prenom>
+      <Nom>Benabbou</Nom>
+      <IdAuteurAurehal>238561</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GAMMA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2420</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_31858">
+      <Prenom>Mathieu</Prenom>
+      <Nom>Bécus</Nom>
+      <IdAuteurAurehal>1350277</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GÉRANT</Service>
+      <Organisme>SenseYou</Organisme>
+      <IdAffiliationAurehal>301822</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_32078">
+      <Prenom>Jian</Prenom>
+      <Nom>Lu</Nom>
+      <IdAuteurAurehal>305222</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université Polytechnique de Hong Kong</Organisme>
+      <IdAffiliationAurehal>61400</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_32524">
+      <Prenom>Pierre</Prenom>
+      <Nom>Bernhard</Nom>
+      <IdAuteurAurehal>101268</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>COMORE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2455</IdAffiliationAurehal>
+      <Email>Pierre.Bernhard@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_32530">
+      <Prenom>Jonathan</Prenom>
+      <Nom>Touboul</Nom>
+      <IdAuteurAurehal>762178</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>NEUROMATHCOMP</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>87563</IdAffiliationAurehal>
+      <Email>jonathan.touboul@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_32889">
+      <Prenom>Bruno</Prenom>
+      <Nom>Raffin</Nom>
+      <IdAuteurAurehal>1056279</IdAuteurAurehal>
+      <IdHal>4842</IdHal>
+      <IdHalAlpha>bruno-raffin</IdHalAlpha>
+      <Service>MOAIS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2403</IdAffiliationAurehal>
+      <Email>bruno.raffin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_33083">
+      <Prenom>Bernard</Prenom>
+      <Nom>Stiegler</Nom>
+      <IdAuteurAurehal>1044521</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT DE RECHERCHE ET D'INNOVATION</Service>
+      <Organisme>Centre Georges Pompidou</Organisme>
+      <IdAffiliationAurehal>162465</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_33390">
+      <Prenom>Paul-Louis</Prenom>
+      <Nom>George</Nom>
+      <IdAuteurAurehal>611113</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GAMMA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2420</IdAffiliationAurehal>
+      <Email>paul-louis.george@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_33394">
+      <Prenom>Jean-Paul</Prenom>
+      <Nom>Haton</Nom>
+      <IdAuteurAurehal>66142</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PAROLE</Service>
+      <Organisme>Université Henri Poincaré Nancy 1</Organisme>
+      <IdAffiliationAurehal>205127</IdAffiliationAurehal>
+      <Email>Jean-Paul.Haton@loria.fr</Email>
+   </Auteur>
+   <Auteur id="c_33400">
+      <Prenom>Agnès</Prenom>
+      <Nom>Sulem-Bialobroda</Nom>
+      <IdAuteurAurehal>1350278</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MATHFI</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2426</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_33512">
+      <Prenom>Éric</Prenom>
+      <Nom>Blayo</Nom>
+      <IdAuteurAurehal>607366</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MOISE</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>31951</IdAffiliationAurehal>
+      <Email>eric.blayo@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_33531">
+      <Prenom>Christine</Prenom>
+      <Nom>Azevedo Coste</Nom>
+      <IdAuteurAurehal>834244</IdAuteurAurehal>
+      <IdHal>8632</IdHal>
+      <IdHalAlpha>christine-azevedo-coste</IdHalAlpha>
+      <Service>DEMAR</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>391198</IdAffiliationAurehal>
+      <Email>azevedo@lirmm.fr</Email>
+   </Auteur>
+   <Auteur id="c_33634">
+      <Prenom>Pierre</Prenom>
+      <Nom>Hellier</Nom>
+      <IdAuteurAurehal>52581</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SERPICO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>106588</IdAffiliationAurehal>
+      <Email>pierre.hellier@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_33920">
+      <Prenom>Thomas</Prenom>
+      <Nom>Genet</Nom>
+      <IdAuteurAurehal>137684</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LANDE</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>2521</IdAffiliationAurehal>
+      <Email>genet@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="c_34009">
+      <Prenom>Cécilia</Prenom>
+      <Nom>Nauczyciel</Nom>
+      <IdAuteurAurehal>950525</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PSYCHIATRIE</Service>
+      <Organisme>CHS Guillaume Régnier de Rennes</Organisme>
+      <IdAffiliationAurehal>357472</IdAffiliationAurehal>
+      <Email>cecilia.nauczyciel@laposte.net</Email>
+   </Auteur>
+   <Auteur id="c_34230">
+      <Prenom>Alain</Prenom>
+      <Nom>Brochier</Nom>
+      <IdAuteurAurehal>1350279</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RETRAITÉ</Service>
+      <Organisme>ENSIMAG</Organisme>
+      <IdAffiliationAurehal>307087</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_34273">
+      <Prenom>François</Prenom>
+      <Nom>Cayre</Nom>
+      <IdAuteurAurehal>69132</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Institut National Polytechnique de Grenoble</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_34411">
+      <Prenom>Cléo</Prenom>
+      <Nom>Baras</Nom>
+      <IdAuteurAurehal>1158439</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email>Cleo.baras@gipsa-lab.grenoble-inp.fr</Email>
+   </Auteur>
+   <Auteur id="c_35299">
+      <Prenom>Yifang</Prenom>
+      <Nom>Li</Nom>
+      <IdAuteurAurehal>480534</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE</Service>
+      <Organisme>Ecole Polytechnique de l'Université de Tours</Organisme>
+      <IdAffiliationAurehal>204893</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_35300">
+      <Prenom>Yannick</Prenom>
+      <Nom>Kergosien</Nom>
+      <IdAuteurAurehal>984732</IdAuteurAurehal>
+      <IdHal>8475</IdHal>
+      <IdHalAlpha>yannick-kergosien</IdHalAlpha>
+      <Service>LABORATOIRE D'INFORMATIQUE</Service>
+      <Organisme>Ecole Polytechnique de l'Université de Tours</Organisme>
+      <IdAffiliationAurehal>204893</IdAffiliationAurehal>
+      <Email>yannick.kergosien@univ-tours.fr</Email>
+   </Auteur>
+   <Auteur id="c_35301">
+      <Prenom>Jean-Charles</Prenom>
+      <Nom>Billaut</Nom>
+      <IdAuteurAurehal>132166</IdAuteurAurehal>
+      <IdHal>5922</IdHal>
+      <IdHalAlpha>jean-charles-billaut</IdHalAlpha>
+      <Service>LABORATOIRE D'INFORMATIQUE</Service>
+      <Organisme>Ecole Polytechnique de l'Université de Tours</Organisme>
+      <IdAffiliationAurehal>204893</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_35344">
+      <Prenom>Maureen</Prenom>
+      <Nom>Clerc</Nom>
+      <IdAuteurAurehal>941797</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CERTIS</Service>
+      <Organisme>Ecole Nationale des Ponts et Chaussées</Organisme>
+      <IdAffiliationAurehal>5578</IdAffiliationAurehal>
+      <Email>maureen.clerc@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_35887">
+      <Prenom>Jean-Marie</Prenom>
+      <Nom>Favre</Nom>
+      <IdAuteurAurehal>364826</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE LIG</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email>Jean-Marie.Favre@imag.fr</Email>
+   </Auteur>
+   <Auteur id="c_35932">
+      <Prenom>Gérald</Prenom>
+      <Nom>Tenenbaum</Nom>
+      <IdAuteurAurehal>1110707</IdAuteurAurehal>
+      <IdHal>7633</IdHal>
+      <IdHalAlpha>gerald-tenenbaum</IdHalAlpha>
+      <Service>INSTITUT ÉLIE CARTAN</Service>
+      <Organisme>Université Nancy 1</Organisme>
+      <IdAffiliationAurehal>23</IdAffiliationAurehal>
+      <Email>gerald.tenenbaum@univ-lorraine.fr</Email>
+   </Auteur>
+   <Auteur id="c_36152">
+      <Prenom>Sylvie</Prenom>
+      <Nom>Boldo</Nom>
+      <IdAuteurAurehal>833201</IdAuteurAurehal>
+      <IdHal>1201</IdHal>
+      <IdHalAlpha>sboldo</IdHalAlpha>
+      <Service>TOCCATA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>212219</IdAffiliationAurehal>
+      <Email>sylvie.boldo@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_36158">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Tsingos</Nom>
+      <IdAuteurAurehal>648280</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>REVES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2477</IdAffiliationAurehal>
+      <Email>nicolas.tsingos@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_36165">
+      <Prenom>Arnaud</Prenom>
+      <Nom>Langlois</Nom>
+      <IdAuteurAurehal>813193</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_36855">
+      <Prenom>Marc</Prenom>
+      <Nom>Schoenauer</Nom>
+      <IdAuteurAurehal>52025</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>TAO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56057</IdAffiliationAurehal>
+      <Email>Marc.Schoenauer@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_37044">
+      <Prenom>Michel</Prenom>
+      <Nom>Buffa</Nom>
+      <IdAuteurAurehal>101871</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>KEWI</Service>
+      <Organisme>Université de Nice</Organisme>
+      <IdAffiliationAurehal>59919</IdAffiliationAurehal>
+      <Email>buffa@unice.fr</Email>
+   </Auteur>
+   <Auteur id="c_37119">
+      <Prenom>Cyril</Prenom>
+      <Nom>Sanchez</Nom>
+      <IdAuteurAurehal>1350289</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GÉRANT</Service>
+      <Organisme>Digit Image</Organisme>
+      <IdAffiliationAurehal>457596</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_37138">
+      <Prenom>Camille</Prenom>
+      <Nom>Bellissant</Nom>
+      <IdAuteurAurehal>70330</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IUT 2</Service>
+      <Organisme>Université Pierre Mendès-France Grenoble</Organisme>
+      <IdAffiliationAurehal>445897</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_37656">
+      <Prenom>Bernard</Prenom>
+      <Nom>Espiau</Nom>
+      <IdAuteurAurehal>52881</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRECTION DE LA RECHERCHE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email>bernard.espiau@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_37878">
+      <Prenom>Vincent</Prenom>
+      <Nom>Limouzy</Nom>
+      <IdAuteurAurehal>1265605</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIMOS</Service>
+      <Organisme>Université Blaise Pascal Clermont Ferrand</Organisme>
+      <IdAffiliationAurehal>400294</IdAffiliationAurehal>
+      <Email>limouzy@limos.fr</Email>
+   </Auteur>
+   <Auteur id="c_37879">
+      <Prenom>Fabien</Prenom>
+      <Nom>de Montgolfier</Nom>
+      <IdAuteurAurehal>714598</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIAFA</Service>
+      <Organisme>Université Paris Diderot</Organisme>
+      <IdAffiliationAurehal>1033</IdAffiliationAurehal>
+      <Email>fm@liafa.jussieu.fr</Email>
+   </Auteur>
+   <Auteur id="c_38148">
+      <Prenom>Aurélien</Prenom>
+      <Nom>Liarte</Nom>
+      <IdAuteurAurehal>364950</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIGNANT</Service>
+      <Organisme>Lycée Audiberti Antibes</Organisme>
+      <IdAffiliationAurehal>457352</IdAffiliationAurehal>
+      <Email>liarte.philo@gmail.com</Email>
+   </Auteur>
+   <Auteur id="c_38149">
+      <Prenom>Yves</Prenom>
+      <Nom>Geffroy</Nom>
+      <IdAuteurAurehal>364949</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIGNANT</Service>
+      <Organisme>Lycée Descartes Rabat</Organisme>
+      <IdAffiliationAurehal>457350</IdAffiliationAurehal>
+      <Email>geffyves@yahoo.fr</Email>
+   </Auteur>
+   <Auteur id="c_39226">
+      <Prenom>Christophe</Prenom>
+      <Nom>Thiéry</Nom>
+      <IdAuteurAurehal>209667</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205124</IdAffiliationAurehal>
+      <Email>christophe.thiery@loria.fr</Email>
+   </Auteur>
+   <Auteur id="c_39227">
+      <Prenom>Bruno</Prenom>
+      <Nom>Scherrer</Nom>
+      <IdAuteurAurehal>1291830</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205124</IdAffiliationAurehal>
+      <Email>bruno.scherrer@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_39228">
+      <Prenom>Alain</Prenom>
+      <Nom>Dutech</Nom>
+      <IdAuteurAurehal>130758</IdAuteurAurehal>
+      <IdHal>1580</IdHal>
+      <IdHalAlpha>alain-dutech</IdHalAlpha>
+      <Service>MAIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205124</IdAffiliationAurehal>
+      <Email>Alain.Dutech@loria.fr</Email>
+   </Auteur>
+   <Auteur id="c_39746">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Ducasse</Nom>
+      <IdAuteurAurehal>884755</IdAuteurAurehal>
+      <IdHal>939</IdHal>
+      <IdHalAlpha>stephane-ducasse</IdHalAlpha>
+      <Service>RMOD</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>432037</IdAffiliationAurehal>
+      <Email>stephane.ducasse@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_40611">
+      <Prenom>Daniel</Prenom>
+      <Nom>Le Métayer</Nom>
+      <IdAuteurAurehal>1103301</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LICIT</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email>daniel.le-metayer@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_40612">
+      <Prenom>Antoinette</Prenom>
+      <Nom>Rouvroy</Nom>
+      <IdAuteurAurehal>1318767</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CRID</Service>
+      <Organisme>Facultés Universitaires Notre-Dame de la Paix Namur</Organisme>
+      <IdAffiliationAurehal>105440</IdAffiliationAurehal>
+      <Email>antoinette.rouvroy@fundp.ac.be</Email>
+   </Auteur>
+   <Auteur id="c_40641">
+      <Prenom>Hugues</Prenom>
+      <Nom>Berry</Nom>
+      <IdAuteurAurehal>51931</IdAuteurAurehal>
+      <IdHal>7219</IdHal>
+      <IdHalAlpha>huguesberry</IdHalAlpha>
+      <Service>COMBINING</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>117367</IdAffiliationAurehal>
+      <Email>hugues.berry@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_41352">
+      <Prenom>Christian</Prenom>
+      <Nom>Boitet</Nom>
+      <IdAuteurAurehal>312119</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIG</Service>
+      <Organisme>Université Joseph Fourier</Organisme>
+      <IdAffiliationAurehal>24471</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_41415">
+      <Prenom>Olivier</Prenom>
+      <Nom>Berder</Nom>
+      <IdAuteurAurehal>419669</IdAuteurAurehal>
+      <IdHal>1278</IdHal>
+      <IdHalAlpha>oberder</IdHalAlpha>
+      <Service>CAIRN</Service>
+      <Organisme>Ecole Nationale Supérieure des Sciences Appliquées et de
+            Technologie</Organisme>
+      <IdAffiliationAurehal>58651</IdAffiliationAurehal>
+      <Email>olivier.berder@univ-rennes1.fr</Email>
+   </Auteur>
+   <Auteur id="c_41738">
+      <Prenom>François</Prenom>
+      <Nom>Horn</Nom>
+      <IdAuteurAurehal>832063</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CLERSE</Service>
+      <Organisme>Université Lille 3</Organisme>
+      <IdAffiliationAurehal>1188</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_41868">
+      <Prenom>Gilles</Prenom>
+      <Nom>Richard</Nom>
+      <IdAuteurAurehal>108115</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IRIT</Service>
+      <Organisme>Université Paul Sabatier Toulouse 3</Organisme>
+      <IdAffiliationAurehal>34499</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_42195">
+      <Prenom>Jérôme</Prenom>
+      <Nom>Jaffré</Nom>
+      <IdAuteurAurehal>99594</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ESTIME</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2419</IdAffiliationAurehal>
+      <Email>jerome.jaffre@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_42853">
+      <Prenom>Sabine</Prenom>
+      <Nom>Moisan</Nom>
+      <IdAuteurAurehal>524420</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PULSAR</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>53163</IdAffiliationAurehal>
+      <Email>Sabine.Moisan@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_43090">
+      <Prenom>Jean-Louis</Prenom>
+      <Nom>Giavitto</Nom>
+      <IdAuteurAurehal>411387</IdAuteurAurehal>
+      <IdHal>2943</IdHal>
+      <IdHalAlpha>jean-louis-giavitto</IdHalAlpha>
+      <Service>IRCAM</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>5234</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_43486">
+      <Prenom>Hamdi</Prenom>
+      <Nom>Ben Abdallah</Nom>
+      <IdAuteurAurehal>1350290</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_43638">
+      <Prenom>Michèle</Prenom>
+      <Nom>Battisti</Nom>
+      <IdAuteurAurehal>435236</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>VEILLE</Service>
+      <Organisme>Association des professionnels de l'information et de la
+            documentation</Organisme>
+      <IdAffiliationAurehal>412636</IdAffiliationAurehal>
+      <Email>michele.battisti@adbs.fr</Email>
+   </Auteur>
+   <Auteur id="c_43810">
+      <Prenom>Peter</Prenom>
+      <Nom>Rossmanith</Nom>
+      <IdAuteurAurehal>701817</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université d'Aix la Chapelle</Organisme>
+      <IdAffiliationAurehal>301724</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_43975">
+      <Prenom>Valérie</Prenom>
+      <Nom>Schafer</Nom>
+      <IdAuteurAurehal>1079723</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIGNANT</Service>
+      <Organisme>Collège Jean Moulin Le Pecq</Organisme>
+      <IdAffiliationAurehal>457353</IdAffiliationAurehal>
+      <Email>valerieschafer@wanadoo.fr</Email>
+   </Auteur>
+   <Auteur id="c_44091">
+      <Prenom>Pierre-Yves</Prenom>
+      <Nom>Oudeyer</Nom>
+      <IdAuteurAurehal>232758</IdAuteurAurehal>
+      <IdHal>6675</IdHal>
+      <IdHalAlpha>pyoudeyer</IdHalAlpha>
+      <Service>FLOWERS</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>60156</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_44370">
+      <Prenom>Philippe</Prenom>
+      <Nom>de Reffye</Nom>
+      <IdAuteurAurehal>99568</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIGIPLANTE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56045</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_44371">
+      <Prenom>Marc</Prenom>
+      <Nom>Jaeger</Nom>
+      <IdAuteurAurehal>1302650</IdAuteurAurehal>
+      <IdHal>7635</IdHal>
+      <IdHalAlpha>marc-jaeger</IdHalAlpha>
+      <Service>DIGIPLANTE</Service>
+      <Organisme>Centre de coopération Internationale en Recherche Agronomique pour
+            le Développement</Organisme>
+      <IdAffiliationAurehal>56045</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_44372">
+      <Prenom>Paul Henry</Prenom>
+      <Nom>Cournède</Nom>
+      <IdAuteurAurehal>100768</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE MAS</Service>
+      <Organisme>Ecole Centrale Paris</Organisme>
+      <IdAffiliationAurehal>3207</IdAffiliationAurehal>
+      <Email>paul-henry.cournede@ecp.fr</Email>
+   </Auteur>
+   <Auteur id="c_44422">
+      <Prenom>Claudia</Prenom>
+      <Nom>Ignat</Nom>
+      <IdAuteurAurehal>140160</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ECOO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2349</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_45253">
+      <Prenom>Guillaume</Prenom>
+      <Nom>Charpiat</Nom>
+      <IdAuteurAurehal>635263</IdAuteurAurehal>
+      <IdHal>6593</IdHal>
+      <IdHalAlpha>guillaume-charpiat</IdHalAlpha>
+      <Service>PULSAR</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>53163</IdAffiliationAurehal>
+      <Email>Guillaume.Charpiat@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_45285">
+      <Prenom>Pascale</Prenom>
+      <Nom>Vicat-Blanc Primet</Nom>
+      <IdAuteurAurehal>1250702</IdAuteurAurehal>
+      <IdHal>6015</IdHal>
+      <IdHalAlpha>olivier-gluck</IdHalAlpha>
+      <Service>RESO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2386</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_45354">
+      <Prenom>Rémi</Prenom>
+      <Nom>Coulom</Nom>
+      <IdAuteurAurehal>781340</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SEQUEL</Service>
+      <Organisme>Université Lille 3</Organisme>
+      <IdAffiliationAurehal>432036</IdAffiliationAurehal>
+      <Email>remi.coulom@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_45532">
+      <Prenom>Philippe</Prenom>
+      <Nom>Mussi</Nom>
+      <IdAuteurAurehal>97680</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MASCOTTE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2466</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_45775">
+      <Prenom>Jeannette</Prenom>
+      <Nom>Wing</Nom>
+      <IdAuteurAurehal>457361</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université Carnegie Mellon</Organisme>
+      <IdAffiliationAurehal>234592</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_45853">
+      <Prenom>Vivien</Prenom>
+      <Nom>Mallet</Nom>
+      <IdAuteurAurehal>358198</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CLIME</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454321</IdAffiliationAurehal>
+      <Email>Vivien.Mallet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_45939">
+      <Prenom>Carl</Prenom>
+      <Nom>Herrmann</Nom>
+      <IdAuteurAurehal>868143</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DÉPARTEMENT DE BIOLOGIE</Service>
+      <Organisme>Université Aix-Marseille 2</Organisme>
+      <IdAffiliationAurehal>457593</IdAffiliationAurehal>
+      <Email>carl.herrmann@univ-amu.fr</Email>
+   </Auteur>
+   <Auteur id="c_45998">
+      <Prenom>Christian .</Prenom>
+      <Nom>Schindelhauer</Nom>
+      <IdAuteurAurehal>1350292</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université de Fribourg</Organisme>
+      <IdAffiliationAurehal>108731</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_47078">
+      <Prenom>Roberto</Prenom>
+      <Nom>Di Cosmo</Nom>
+      <IdAuteurAurehal>182620</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE PPS</Service>
+      <Organisme>Université Paris Diderot</Organisme>
+      <IdAffiliationAurehal>1067</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_47109">
+      <Prenom>Anne-Marie</Prenom>
+      <Nom>Kermarrec</Nom>
+      <IdAuteurAurehal>92585</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ASAP</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>41461</IdAffiliationAurehal>
+      <Email>Anne-Marie.Kermarrec@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_47553">
+      <Prenom>Rolf H.</Prenom>
+      <Nom>Möhring</Nom>
+      <IdAuteurAurehal>1350293</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MATHÉMATIQUES</Service>
+      <Organisme>Technische Universität Berlin</Organisme>
+      <IdAffiliationAurehal>86624</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_47554">
+      <Prenom>Martin</Prenom>
+      <Nom>Oellrich</Nom>
+      <IdAuteurAurehal>1350294</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Beuth Hochschule für Technik Berlin</Organisme>
+      <IdAffiliationAurehal>189852</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_47555">
+      <Prenom>Robert</Prenom>
+      <Nom>Pankrath</Nom>
+      <IdAuteurAurehal>1350298</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MATHÉMATIQUES</Service>
+      <Organisme>Technische Universität Berlin</Organisme>
+      <IdAffiliationAurehal>86624</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5584">
+      <Prenom>Vincent</Prenom>
+      <Nom>Chevrier</Nom>
+      <IdAuteurAurehal>1134009</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAIA</Service>
+      <Organisme>Université Henri Poincaré Nancy 1</Organisme>
+      <IdAffiliationAurehal>205124</IdAffiliationAurehal>
+      <Email>vincent.chevrier@loria.fr</Email>
+   </Auteur>
+   <Auteur id="c_5585">
+      <Prenom>Dominique</Prenom>
+      <Nom>Chouchan</Nom>
+      <IdAuteurAurehal>131535</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5702">
+      <Prenom>David</Prenom>
+      <Nom>Guiraud</Nom>
+      <IdAuteurAurehal>702614</IdAuteurAurehal>
+      <IdHal>8582</IdHal>
+      <IdHalAlpha>david-guiraud</IdHalAlpha>
+      <Service>DEMAR</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>391198</IdAffiliationAurehal>
+      <Email>david.guiraud@lirmm.fr</Email>
+   </Auteur>
+   <Auteur id="c_5708">
+      <Prenom>Christian</Prenom>
+      <Nom>Blonz</Nom>
+      <IdAuteurAurehal>365135</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5709">
+      <Prenom>Pierre-Brice</Prenom>
+      <Nom>Wieber</Nom>
+      <IdAuteurAurehal>668440</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BIPOP</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2374</IdAffiliationAurehal>
+      <Email>Pierre-Brice.Wieber@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_5727">
+      <Prenom>Jean-Gabriel</Prenom>
+      <Nom>Ganascia</Nom>
+      <IdAuteurAurehal>53929</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIP6</Service>
+      <Organisme>Université Pierre et Marie Curie</Organisme>
+      <IdAffiliationAurehal>233</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5741">
+      <Prenom>Jean-Michel</Prenom>
+      <Nom>Muller</Nom>
+      <IdAuteurAurehal>662358</IdAuteurAurehal>
+      <IdHal>4171</IdHal>
+      <IdHalAlpha>jean-michel-muller</IdHalAlpha>
+      <Service>ARENAIRE</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>2371</IdAffiliationAurehal>
+      <Email>jean-michel.muller@ens-lyon.fr</Email>
+   </Auteur>
+   <Auteur id="c_5769">
+      <Prenom>Laurent</Prenom>
+      <Nom>Chicoineau</Nom>
+      <IdAuteurAurehal>1350299</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CENTRE DE CULTURE SCIENTIFIQUE TECHNIQUE ET INDUSTRIELLE DE
+            GRENOBLE</Service>
+      <Organisme>Université Stendhal Grenoble 3</Organisme>
+      <IdAffiliationAurehal>457399</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5778">
+      <Prenom>Philippe</Prenom>
+      <Nom>Flajolet</Nom>
+      <IdAuteurAurehal>46686</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ALGO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2407</IdAffiliationAurehal>
+      <Email>philippe.flajolet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_5779">
+      <Prenom>Étienne</Prenom>
+      <Nom>Parizot</Nom>
+      <IdAuteurAurehal>120</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5809">
+      <Prenom>Philippe</Prenom>
+      <Nom>Gérard</Nom>
+      <IdAuteurAurehal>363847</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Philippe Gérard ni organisme ni service</Service>
+      <Organisme>MIRAGES</Organisme>
+      <IdAffiliationAurehal>2430</IdAffiliationAurehal>
+      <Email>philippe.gerard@insa-strasbourg.fr</Email>
+   </Auteur>
+   <Auteur id="c_5835">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Bellin</Nom>
+      <IdAuteurAurehal>839038</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5896">
+      <Prenom>Sylvain</Prenom>
+      <Nom>Soliman</Nom>
+      <IdAuteurAurehal>752596</IdAuteurAurehal>
+      <IdHal>2059</IdHal>
+      <IdHalAlpha>sylvain-soliman</IdHalAlpha>
+      <Service>CONTRAINTES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2414</IdAffiliationAurehal>
+      <Email>Sylvain.Soliman@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_5897">
+      <Prenom>François</Prenom>
+      <Nom>Fages</Nom>
+      <IdAuteurAurehal>52260</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CONTRAINTES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2414</IdAffiliationAurehal>
+      <Email>Francois.Fages@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_5909">
+      <Prenom>Pascal</Prenom>
+      <Nom>Frey</Nom>
+      <IdAuteurAurehal>1301169</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GAMMA</Service>
+      <Organisme>Université Pierre et Marie Curie</Organisme>
+      <IdAffiliationAurehal>2420</IdAffiliationAurehal>
+      <Email>frey@ann.jussieu.frPascalFreychiara.nardoni@upmc.fr</Email>
+   </Auteur>
+   <Auteur id="c_5928">
+      <Prenom>Anita</Prenom>
+      <Nom>Castiel</Nom>
+      <IdAuteurAurehal>64555</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5940">
+      <Prenom>Vincent</Prenom>
+      <Nom>Lefèvre</Nom>
+      <IdAuteurAurehal>1259761</IdAuteurAurehal>
+      <IdHal>530</IdHal>
+      <IdHalAlpha>vinc17</IdHalAlpha>
+      <Service>ARENAIRE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2371</IdAffiliationAurehal>
+      <Email>vincent@vinc17.net</Email>
+   </Auteur>
+   <Auteur id="c_5941">
+      <Prenom>Paul</Prenom>
+      <Nom>Zimmermann</Nom>
+      <IdAuteurAurehal>60829</IdAuteurAurehal>
+      <IdHal>1043</IdHal>
+      <IdHalAlpha>paul-zimmermann</IdHalAlpha>
+      <Service>CACAO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>24434</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_5947">
+      <Prenom>Jean - Daniel</Prenom>
+      <Nom>Boissonnat</Nom>
+      <IdAuteurAurehal>873735</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GEOMETRICA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>74750</IdAffiliationAurehal>
+      <Email>Jean-Daniel.Boissonnat@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6184">
+      <Prenom>Arghyro</Prenom>
+      <Nom>Paouri</Nom>
+      <IdAuteurAurehal>742281</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6185">
+      <Prenom>Antoine</Prenom>
+      <Nom>Chaigne</Nom>
+      <IdAuteurAurehal>714644</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>UNITÉ DE MÉCANIQUE</Service>
+      <Organisme>Ecole Nationale Supérieure de Techniques Avancées</Organisme>
+      <IdAffiliationAurehal>135261</IdAffiliationAurehal>
+      <Email>antoine.chaigne@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6186">
+      <Prenom>Patrick</Prenom>
+      <Nom>Joly</Nom>
+      <IdAuteurAurehal>1337469</IdAuteurAurehal>
+      <IdHal>4394</IdHal>
+      <IdHalAlpha>patrick-joly</IdHalAlpha>
+      <Service>POEMS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>3316</IdAffiliationAurehal>
+      <Email>patrick.joly@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6187">
+      <Prenom>Éliane</Prenom>
+      <Nom>Bécache</Nom>
+      <IdAuteurAurehal>1337765</IdAuteurAurehal>
+      <IdHal>4395</IdHal>
+      <IdHalAlpha>eliane-becache</IdHalAlpha>
+      <Service>POEMS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>3316</IdAffiliationAurehal>
+      <Email>eliane.becache@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6188">
+      <Prenom>Grégoire</Prenom>
+      <Nom>Derveaux</Nom>
+      <IdAuteurAurehal>511923</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MACS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2425</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6223">
+      <Prenom>Hervé</Prenom>
+      <Nom>Le Tellier</Nom>
+      <IdAuteurAurehal>1350300</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6248">
+      <Prenom>Bernard</Prenom>
+      <Nom>Hidoine</Nom>
+      <IdAuteurAurehal>1350304</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6249">
+      <Prenom>Gérard</Prenom>
+      <Nom>Paget</Nom>
+      <IdAuteurAurehal>1350305</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RETRAITÉ</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>307087</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6466">
+      <Prenom>François</Prenom>
+      <Nom>Rechenmann</Nom>
+      <IdAuteurAurehal>131460</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IBIS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56309</IdAffiliationAurehal>
+      <Email>Francois.Rechenmann@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6467">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Quinkal</Nom>
+      <IdAuteurAurehal>74559</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_6499">
+      <Prenom>Alain</Prenom>
+      <Nom>Viari</Nom>
+      <IdAuteurAurehal>90909</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BAMBOO</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>89319</IdAffiliationAurehal>
+      <Email>Alain.Viari@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6520">
+      <Prenom>Nicholas</Prenom>
+      <Nom>Ayache</Nom>
+      <IdAuteurAurehal>97794</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ASCLEPIOS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>30281</IdAffiliationAurehal>
+      <Email>nicholas.ayache@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_6558">
+      <Prenom>Bernard</Prenom>
+      <Nom>Lang</Nom>
+      <IdAuteurAurehal>636230</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ATROC</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7060">
+      <Prenom>Annelies</Prenom>
+      <Nom>Braffort</Nom>
+      <IdAuteurAurehal>200182</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE POUR LA MÉCANIQUE ET LES SCIENCES DE
+            L'INGÉNIEUR</Service>
+      <Organisme>Centre National de la Recherche Scientifique</Organisme>
+      <IdAffiliationAurehal>247329</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7123">
+      <Prenom>Gilles</Prenom>
+      <Nom>Kahn</Nom>
+      <IdAuteurAurehal>97547</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRECTION</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7127">
+      <Prenom>Patrick</Prenom>
+      <Nom>Laug</Nom>
+      <IdAuteurAurehal>1291543</IdAuteurAurehal>
+      <IdHal>3726</IdHal>
+      <IdHalAlpha>patrick-laug</IdHalAlpha>
+      <Service>GAMMA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2420</IdAffiliationAurehal>
+      <Email>patrick.laug@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_7131">
+      <Prenom>Houman</Prenom>
+      <Nom>Borouchaki</Nom>
+      <IdAuteurAurehal>97528</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LASMIS</Service>
+      <Organisme>Université de Technologie de Troyes</Organisme>
+      <IdAffiliationAurehal>1685</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7134">
+      <Prenom>Michel</Prenom>
+      <Nom>Banâtre</Nom>
+      <IdAuteurAurehal>98172</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ACES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2505</IdAffiliationAurehal>
+      <Email>michel.banatre@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_7158">
+      <Prenom>Paul</Prenom>
+      <Nom>Couderc</Nom>
+      <IdAuteurAurehal>962078</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ACES</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2505</IdAffiliationAurehal>
+      <Email>paul.couderc@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_7191">
+      <Prenom>Anatole</Prenom>
+      <Nom>Lécuyer</Nom>
+      <IdAuteurAurehal>946517</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HYBRID</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>210616</IdAffiliationAurehal>
+      <Email>anatole.lecuyer@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_7208">
+      <Prenom>Pierre</Prenom>
+      <Nom>Vandeginste</Nom>
+      <IdAuteurAurehal>819879</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7635">
+      <Prenom>David</Prenom>
+      <Nom>Simplot-Ryl</Nom>
+      <IdAuteurAurehal>64152</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>POPS</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>56015</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_7637">
+      <Prenom>Marion</Prenom>
+      <Nom>Videau</Nom>
+      <IdAuteurAurehal>74443</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE CRYPTOGRAPHIE ET COMPOSANTS</Service>
+      <Organisme>Agence Nationale de la Sécurité des Systèmes d'Information</Organisme>
+      <IdAffiliationAurehal>104211</IdAffiliationAurehal>
+      <Email>marion.videau@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_7713">
+      <Prenom>Gilles</Prenom>
+      <Nom>Dowek</Nom>
+      <IdAuteurAurehal>957710</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>TYPICAL</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>55047</IdAffiliationAurehal>
+      <Email>gilles.dowek@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_8545">
+      <Prenom>Odile</Prenom>
+      <Nom>Lausecker</Nom>
+      <IdAuteurAurehal>63289</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email>Odile.Lausecker@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_8650">
+      <Prenom>Martin</Prenom>
+      <Nom>Hachet</Nom>
+      <IdAuteurAurehal>661087</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>POTIOC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>179935</IdAffiliationAurehal>
+      <Email>Martin.Hachet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_8729">
+      <Prenom>David</Prenom>
+      <Nom>Eck</Nom>
+      <IdAuteurAurehal>74444</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MATH AND COMPUTER SCIENCE</Service>
+      <Organisme>Hobart and William Smith Colleges Geneva</Organisme>
+      <IdAffiliationAurehal>344179</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_8814">
+      <Prenom>Claude</Prenom>
+      <Nom>Gomez</Nom>
+      <IdAuteurAurehal>59319</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SCILAB</Service>
+      <Organisme>Digiteo</Organisme>
+      <IdAffiliationAurehal>116192</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_9159">
+      <Prenom>Pierre</Prenom>
+      <Nom>Jancène</Nom>
+      <IdAuteurAurehal>744998</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MULTIMÉDIA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_9317">
+      <Prenom>Michel</Prenom>
+      <Nom>Parent</Nom>
+      <IdAuteurAurehal>1123792</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IMARA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2423</IdAffiliationAurehal>
+      <Email>michel.parent@inria.fr</Email>
+   </Auteur>
+   <Auteur id="c_9318">
+      <Prenom>Thierry</Prenom>
+      <Nom>Chanard</Nom>
+      <IdAuteurAurehal>64155</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CYBERMOVE</Service>
+      <Organisme>GEA</Organisme>
+      <IdAffiliationAurehal>457591</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="c_9952">
+      <Prenom>Aurélien</Prenom>
+      <Nom>Saint-Dizier</Nom>
+      <IdAuteurAurehal>1350307</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INGÉNIEUR</Service>
+      <Organisme>Ecole Supérieure d'informatique et Applications de Lorraine</Organisme>
+      <IdAffiliationAurehal>407821</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="d_79894">
+      <Prenom>David</Prenom>
+      <Nom>Pointcheval</Nom>
+      <IdAuteurAurehal>891645</IdAuteurAurehal>
+      <IdHal>29</IdHal>
+      <IdHalAlpha>david-pointcheval</IdHalAlpha>
+      <Service>auteur David Pointcheval ni organisme ni service</Service>
+      <Organisme>CASCADE</Organisme>
+      <IdAffiliationAurehal>454320</IdAffiliationAurehal>
+      <Email>david.pointcheval@ens.fr</Email>
+   </Auteur>
+   <Auteur id="d_80036">
+      <Prenom>Emmanuel</Prenom>
+      <Nom>Vincent</Nom>
+      <IdAuteurAurehal>176768</IdAuteurAurehal>
+      <IdHal>1256</IdHal>
+      <IdHalAlpha>emmanuelv</IdHalAlpha>
+      <Service>MULTISPEECH</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>420403</IdAffiliationAurehal>
+      <Email>emmanuel.vincent@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_53630">
+      <Prenom>Maurice</Prenom>
+      <Nom>Nivat</Nom>
+      <IdAuteurAurehal>53580</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIAFA</Service>
+      <Organisme>Université Paris Diderot</Organisme>
+      <IdAffiliationAurehal>1033</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_53655">
+      <Prenom>Guillaume</Prenom>
+      <Nom>Beslon</Nom>
+      <IdAuteurAurehal>844230</IdAuteurAurehal>
+      <IdHal>4190</IdHal>
+      <IdHalAlpha>gbeslon</IdHalAlpha>
+      <Service>LIRIS</Service>
+      <Organisme>Institut National des Sciences Appliquées de Lyon</Organisme>
+      <IdAffiliationAurehal>2003</IdAffiliationAurehal>
+      <Email>guillaume.beslon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_53836">
+      <Prenom>Mathieu</Prenom>
+      <Nom>Cunche</Nom>
+      <IdAuteurAurehal>1193712</IdAuteurAurehal>
+      <IdHal>5208</IdHal>
+      <IdHalAlpha>mathieu-cunche</IdHalAlpha>
+      <Service>PRIVATICS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>206120</IdAffiliationAurehal>
+      <Email>Emailmathieu.cunche@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_53991">
+      <Prenom>Grégoire</Prenom>
+      <Nom>Malandain</Nom>
+      <IdAuteurAurehal>197389</IdAuteurAurehal>
+      <IdHal>4885</IdHal>
+      <IdHalAlpha>gregoire-malandain</IdHalAlpha>
+      <Service>ASCLEPIOS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>30281</IdAffiliationAurehal>
+      <Email>Gregoire.Malandain@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_55698">
+      <Prenom>Catherine</Prenom>
+      <Nom>Ferrieux</Nom>
+      <IdAuteurAurehal>1350309</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_55885">
+      <Prenom>Jocelyne</Prenom>
+      <Nom>Erhel</Nom>
+      <IdAuteurAurehal>1066114</IdAuteurAurehal>
+      <IdHal>6567</IdHal>
+      <IdHalAlpha>jocelyne-erhel</IdHalAlpha>
+      <Service>SAGE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2530</IdAffiliationAurehal>
+      <Email>jocelyne.erhel@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_56797">
+      <Prenom>Ionut</Prenom>
+      <Nom>Danaila</Nom>
+      <IdAuteurAurehal>58777</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE JACQUES-LOUIS LIONS</Service>
+      <Organisme>Université Pierre et Marie Curie Paris 6</Organisme>
+      <IdAffiliationAurehal>25</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_57070">
+      <Prenom>Antoine</Prenom>
+      <Nom>Petit</Nom>
+      <IdAuteurAurehal>376429</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRECTION</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email>antoine.petit@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_57438">
+      <Prenom>Florent</Prenom>
+      <Nom>Masseglia</Nom>
+      <IdAuteurAurehal>1105016</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ZENITH</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>141072</IdAffiliationAurehal>
+      <Email>Florent.Masseglia@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_57470">
+      <Prenom>Michael</Prenom>
+      <Nom>Eisermann</Nom>
+      <IdAuteurAurehal>600715</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT FÜR GEOMETRIE UND TOPOLOGIE</Service>
+      <Organisme>Universität Stuttgart</Organisme>
+      <IdAffiliationAurehal>457610</IdAffiliationAurehal>
+      <Email>Michael.Eisermann@mathematik.uni-stuttgart.de</Email>
+   </Auteur>
+   <Auteur id="i_58378">
+      <Prenom>Denis</Prenom>
+      <Nom>Favre</Nom>
+      <IdAuteurAurehal>1350310</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_58399">
+      <Prenom>Caroline</Prenom>
+      <Nom>Essert</Nom>
+      <IdAuteurAurehal>1127630</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LSIIT</Service>
+      <Organisme>Université de Strasbourg</Organisme>
+      <IdAffiliationAurehal>53174</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_58448">
+      <Prenom>Julien</Prenom>
+      <Nom>Diaz</Nom>
+      <IdAuteurAurehal>231674</IdAuteurAurehal>
+      <IdHal>1232</IdHal>
+      <IdHalAlpha>julien-diaz</IdHalAlpha>
+      <Service>MAGIQUE 3D</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>55997</IdAffiliationAurehal>
+      <Email>julien.diaz@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_58449">
+      <Prenom>Roland</Prenom>
+      <Nom>Martin</Nom>
+      <IdAuteurAurehal>199494</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAGIQUE 3D</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>55997</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_58592">
+      <Prenom>Frédéric</Prenom>
+      <Nom>Alexandre</Nom>
+      <IdAuteurAurehal>778506</IdAuteurAurehal>
+      <IdHal>2476</IdHal>
+      <IdHalAlpha>frederic-alexandre</IdHalAlpha>
+      <Service>CORTEX</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205107</IdAffiliationAurehal>
+      <Email>Frederic.Alexandre@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59182">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Lanteri</Nom>
+      <IdAuteurAurehal>1196419</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>NACHOS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>45195</IdAffiliationAurehal>
+      <Email>Stephane.Lanteri@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59391">
+      <Prenom>Ronan</Prenom>
+      <Nom>Billon</Nom>
+      <IdAuteurAurehal>1350311</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CERV</Service>
+      <Organisme>Université Européenne de Bretagne</Organisme>
+      <IdAffiliationAurehal>33917</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_59408">
+      <Prenom>André</Prenom>
+      <Nom>Seznec</Nom>
+      <IdAuteurAurehal>100447</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ALF</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>88245</IdAffiliationAurehal>
+      <Email>andre.seznec@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59479">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Cotin</Nom>
+      <IdAuteurAurehal>1337451</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SHAMAN</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>111225</IdAffiliationAurehal>
+      <Email>Emailstephane.cotin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59480">
+      <Prenom>Erwan</Prenom>
+      <Nom>Kerrien</Nom>
+      <IdAuteurAurehal>1289825</IdAuteurAurehal>
+      <IdHal>1068</IdHal>
+      <IdHalAlpha>erwan-kerrien</IdHalAlpha>
+      <Service>MAGRIT</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205123</IdAffiliationAurehal>
+      <Email>Erwan.Kerrien@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59644">
+      <Prenom>Nathalie</Prenom>
+      <Nom>Mitton</Nom>
+      <IdAuteurAurehal>715129</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>POPS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56015</IdAffiliationAurehal>
+      <Email>nathalie.mitton@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59714">
+      <Prenom>Julien</Prenom>
+      <Nom>Vandaële</Nom>
+      <IdAuteurAurehal>615527</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Julien Vandaële ni organisme ni service</Service>
+      <Organisme>SED Lille</Organisme>
+      <IdAffiliationAurehal>457598</IdAffiliationAurehal>
+      <Email>julien.vandaele@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_59782">
+      <Prenom>Brice</Prenom>
+      <Nom>Goglin</Nom>
+      <IdAuteurAurehal>98184</IdAuteurAurehal>
+      <IdHal>1244</IdHal>
+      <IdHalAlpha>brice-goglin</IdHalAlpha>
+      <Service>RUNTIME</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56003</IdAffiliationAurehal>
+      <Email>Brice.Goglin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_60098">
+      <Prenom>Paola</Prenom>
+      <Nom>Goatin</Nom>
+      <IdAuteurAurehal>666021</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>OPALE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2490</IdAffiliationAurehal>
+      <Email>paola.goatin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_60369">
+      <Prenom>Jacques</Prenom>
+      <Nom>Lévy Véhel</Nom>
+      <IdAuteurAurehal>615721</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>REGULARITY</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>133583</IdAffiliationAurehal>
+      <Email>jacques.levy.vehel@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_60789">
+      <Prenom>Claude</Prenom>
+      <Nom>Castelluccia</Nom>
+      <IdAuteurAurehal>1101214</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Claude castelluccia pas de service</Service>
+      <Organisme>PLANETE</Organisme>
+      <IdAffiliationAurehal>2491</IdAffiliationAurehal>
+      <Email>claude.castelluccia@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_61324">
+      <Prenom>Patrick</Prenom>
+      <Nom>Valduriez</Nom>
+      <IdAuteurAurehal>97777</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ZENITH</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>141072</IdAffiliationAurehal>
+      <Email>Patrick.Valduriez@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_61715">
+      <Prenom>Jean-Daniel</Prenom>
+      <Nom>Fekete</Nom>
+      <IdAuteurAurehal>722754</IdAuteurAurehal>
+      <IdHal>8723</IdHal>
+      <IdHalAlpha>jean-daniel-fekete</IdHalAlpha>
+      <Service>AVIZ</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56039</IdAffiliationAurehal>
+      <Email>jean-daniel.fekete@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_61769">
+      <Prenom>Mireille</Prenom>
+      <Nom>Bossy</Nom>
+      <IdAuteurAurehal>208606</IdAuteurAurehal>
+      <IdHal>849</IdHal>
+      <IdHalAlpha>bossy</IdHalAlpha>
+      <Service>TOSCA</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>35884</IdAffiliationAurehal>
+      <Email>Mireille.Bossy@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_62234">
+      <Prenom>Guillaume</Prenom>
+      <Nom>Piolle</Nom>
+      <IdAuteurAurehal>1185380</IdAuteurAurehal>
+      <IdHal>4596</IdHal>
+      <IdHalAlpha>guillaume-piolle</IdHalAlpha>
+      <Service>SSIR</Service>
+      <Organisme>Supélec</Organisme>
+      <IdAffiliationAurehal>135706</IdAffiliationAurehal>
+      <Email>guillaume.piolle@inria.fr</Email>
+   </Auteur>
+   <Auteur id="i_62237">
+      <Prenom>Martin</Prenom>
+      <Nom>Abadi</Nom>
+      <IdAuteurAurehal>1115029</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Martin Abadi ni organisme ni service</Service>
+      <Organisme>Microsoft Research</Organisme>
+      <IdAffiliationAurehal>365620</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_62240">
+      <Prenom>Louise</Prenom>
+      <Nom>Merzeau</Nom>
+      <IdAuteurAurehal>492658</IdAuteurAurehal>
+      <IdHal>6466</IdHal>
+      <IdHalAlpha>louise-merzeau</IdHalAlpha>
+      <Service>auteur Louise Merzeau ni organisme ni service</Service>
+      <Organisme>Université Paris Ouest Nanterre La Défense</Organisme>
+      <IdAffiliationAurehal>116205</IdAffiliationAurehal>
+      <Email>louise@merzeau.net</Email>
+   </Auteur>
+   <Auteur id="i_62272">
+      <Prenom>Laurent</Prenom>
+      <Nom>Perrinet</Nom>
+      <IdAuteurAurehal>67910</IdAuteurAurehal>
+      <IdHal>3934</IdHal>
+      <IdHalAlpha>laurent-perrinet</IdHalAlpha>
+      <Service>INSTITUT DE NEUROSCIENCES DE LA TIMONE</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>202046</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="i_62274">
+      <Prenom>Marco</Prenom>
+      <Nom>Congedo</Nom>
+      <IdAuteurAurehal>168074</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_63302">
+      <Prenom>Arshia</Prenom>
+      <Nom>Cont</Nom>
+      <IdAuteurAurehal>660511</IdAuteurAurehal>
+      <IdHal>6067</IdHal>
+      <IdHalAlpha>arshiacont</IdHalAlpha>
+      <Service>MÉDIATIONS RECHERCHE/CRÉATION</Service>
+      <Organisme>IRCAM</Organisme>
+      <IdAffiliationAurehal>5234</IdAffiliationAurehal>
+      <Email>arshia.cont@ircam.fr</Email>
+   </Auteur>
+   <Auteur id="int_63427">
+      <Prenom>Olivier</Prenom>
+      <Nom>Delgrange</Nom>
+      <IdAuteurAurehal>1198275</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SERVICE D'INFORMATIQUE THÉORIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>39712</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_63639">
+      <Prenom>Jean-Raynald</Prenom>
+      <Nom>de Dreuzy</Nom>
+      <IdAuteurAurehal>169051</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>UMR GÉOSCIENCES RENNES</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>179899</IdAffiliationAurehal>
+      <Email>Jean-Raynald.de-Dreuzy@univ-rennes1.fr</Email>
+   </Auteur>
+   <Auteur id="int_64135">
+      <Prenom>Anne-Charlotte</Prenom>
+      <Nom>Philippe</Nom>
+      <IdAuteurAurehal>668175</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ATHENA</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>106416</IdAffiliationAurehal>
+      <Email>anne-charlotte.philippe@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_64314">
+      <Prenom>Etienne</Prenom>
+      <Nom>Ghys</Nom>
+      <IdAuteurAurehal>643107</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>UNITÉ DE MATHÉMATIQUES PURES ET APPLIQUÉES DE L'ÉCOLE NORMALE
+            SUPÉRIEURE DE LYON</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>106</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64539">
+      <Prenom>Sacha</Prenom>
+      <Nom>Krakowiak</Nom>
+      <IdAuteurAurehal>98286</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SARDES</Service>
+      <Organisme>Retraité</Organisme>
+      <IdAffiliationAurehal>2405</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64557">
+      <Prenom>Hadrien</Prenom>
+      <Nom>Mélot</Nom>
+      <IdAuteurAurehal>1021480</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT D'INFORMATIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>39712</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64558">
+      <Prenom>Christophe</Prenom>
+      <Nom>Troestler</Nom>
+      <IdAuteurAurehal>1350312</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT DE MATHÉMATIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>102923</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64612">
+      <Prenom>Arno</Prenom>
+      <Nom>Eigenwillig</Nom>
+      <IdAuteurAurehal>1350313</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DEPARTMENT 1: ALGORITHMS AND COMPLEXITY</Service>
+      <Organisme>Max-Planck-Institut für Informatik</Organisme>
+      <IdAffiliationAurehal>395792</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64613">
+      <Prenom>Kurt</Prenom>
+      <Nom>Mehlhorn</Nom>
+      <IdAuteurAurehal>904359</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DEPARTMENT 1: ALGORITHMS AND COMPLEXITY</Service>
+      <Organisme>Max-Planck-Institut für Informatik</Organisme>
+      <IdAffiliationAurehal>395792</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_64730">
+      <Prenom>Olivier</Prenom>
+      <Nom>Gascuel</Nom>
+      <IdAuteurAurehal>831163</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Olivier Gascuel ni organisme ni service (Mab DU
+            Lirmm)</Service>
+      <Organisme>MAB</Organisme>
+      <IdAffiliationAurehal>388224</IdAffiliationAurehal>
+      <Email>gascuel@lirmm.fr</Email>
+   </Auteur>
+   <Auteur id="int_65041">
+      <Prenom>Mikaël</Prenom>
+      <Nom>Salson</Nom>
+      <IdAuteurAurehal>654032</IdAuteurAurehal>
+      <IdHal>838</IdHal>
+      <IdHalAlpha>salson</IdHalAlpha>
+      <Service>BONSAI</Service>
+      <Organisme>Université de Lille 1</Organisme>
+      <IdAffiliationAurehal>432028</IdAffiliationAurehal>
+      <Email>mikael.salson@lifl.fr</Email>
+   </Auteur>
+   <Auteur id="int_65119">
+      <Prenom>Jacques</Prenom>
+      <Nom>Mossière</Nom>
+      <IdAuteurAurehal>69983</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSIMAG</Service>
+      <Organisme>Grenoble INP</Organisme>
+      <IdAffiliationAurehal>9907</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_65177">
+      <Prenom>Jean</Prenom>
+      <Nom>Lassègue</Nom>
+      <IdAuteurAurehal>159087</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CREA</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1173</IdAffiliationAurehal>
+      <Email>jean@lassegue.net</Email>
+   </Auteur>
+   <Auteur id="int_65993">
+      <Prenom>Laurence</Prenom>
+      <Nom>Danlos</Nom>
+      <IdAuteurAurehal>1098886</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ALPAGE</Service>
+      <Organisme>Université Paris 7</Organisme>
+      <IdAffiliationAurehal>454314</IdAffiliationAurehal>
+      <Email>danlos@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_66089">
+      <Prenom>Sandrine</Prenom>
+      <Nom>Blazy</Nom>
+      <IdAuteurAurehal>105716</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Sandrine Blazy ni organisme ni service</Service>
+      <Organisme>CELTIQUE</Organisme>
+      <IdAffiliationAurehal>88187</IdAffiliationAurehal>
+      <Email>sandrine.blazy@gmail.com</Email>
+   </Auteur>
+   <Auteur id="int_66092">
+      <Prenom>Jean-Paul</Prenom>
+      <Nom>Laumond</Nom>
+      <IdAuteurAurehal>1188518</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GEPETTO</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>388790</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_66096">
+      <Prenom>Serge</Prenom>
+      <Nom>Abiteboul</Nom>
+      <IdAuteurAurehal>78092</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INRIA SACLAY ILE DE FRANCE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>118511</IdAffiliationAurehal>
+      <Email>serge.abiteboul@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_66129">
+      <Prenom>Jean</Prenom>
+      <Nom>Ponce</Nom>
+      <IdAuteurAurehal>207396</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>WILLOW</Service>
+      <Organisme>ENS</Organisme>
+      <IdAffiliationAurehal>454692</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_66216">
+      <Prenom>Karl</Prenom>
+      <Nom>Grosse-Erdmann</Nom>
+      <IdAuteurAurehal>492565</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SERVICE DE PROBABILITÉS ET STATISTIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>102923</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_66217">
+      <Prenom>Quentin</Prenom>
+      <Nom>Menet</Nom>
+      <IdAuteurAurehal>1215530</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SERVICE DE PROBABILITÉS ET STATISTIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>102923</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_66944">
+      <Prenom>Olivier</Prenom>
+      <Nom>Ly</Nom>
+      <IdAuteurAurehal>1040512</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Olivier Ly ni organisme ni service</Service>
+      <Organisme>LABRI</Organisme>
+      <IdAffiliationAurehal>3102</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_67179">
+      <Prenom>Friedhelm</Prenom>
+      <Nom>Meyer auf der Heide</Nom>
+      <IdAuteurAurehal>1041827</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HEINZ NIXDORF INSTITUT</Service>
+      <Organisme>Universität Paderborn</Organisme>
+      <IdAffiliationAurehal>263107</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_67180">
+      <Prenom>Joachim</Prenom>
+      <Nom>Gehweiler</Nom>
+      <IdAuteurAurehal>1350317</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HEINZ NIXDORF INSTITUT</Service>
+      <Organisme>Universität Paderborn</Organisme>
+      <IdAffiliationAurehal>263107</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_67461">
+      <Prenom>Thomas</Prenom>
+      <Nom>Brihaye</Nom>
+      <IdAuteurAurehal>439237</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT DE MATHÉMATIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>102923</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_67463">
+      <Prenom>Véronique</Prenom>
+      <Nom>Bruyère</Nom>
+      <IdAuteurAurehal>194100</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT D'INFORMATIQUE</Service>
+      <Organisme>UMONS</Organisme>
+      <IdAffiliationAurehal>39712</IdAffiliationAurehal>
+      <Email>Veronique.Bruyere@umh.ac.be</Email>
+   </Auteur>
+   <Auteur id="int_67615">
+      <Prenom>Agnès</Prenom>
+      <Nom>Piquard-Kipffer</Nom>
+      <IdAuteurAurehal>860153</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PAROLE</Service>
+      <Organisme>Université de Lorraine</Organisme>
+      <IdAffiliationAurehal>205127</IdAffiliationAurehal>
+      <Email>agnes.piquard@loria.fr</Email>
+   </Auteur>
+   <Auteur id="int_67902">
+      <Prenom>Jeanne</Prenom>
+      <Nom>Morcellet</Nom>
+      <IdAuteurAurehal>1350318</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DOCSCIENCES</Service>
+      <Organisme>CRDP de l'académie de Versailles</Organisme>
+      <IdAffiliationAurehal>457595</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_68125">
+      <Prenom>Yann</Prenom>
+      <Nom>Ponty</Nom>
+      <IdAuteurAurehal>88543</IdAuteurAurehal>
+      <IdHal>3138</IdHal>
+      <IdHalAlpha>yann-ponty</IdHalAlpha>
+      <Service>auteur Yann Ponty ni organisme ni service</Service>
+      <Organisme>AMIB</Organisme>
+      <IdAffiliationAurehal>103784</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_68355">
+      <Prenom>Catherine</Prenom>
+      <Nom>Bernstein</Nom>
+      <IdAuteurAurehal>1350324</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Catherine Bernstein ni organisme ni service
+            (REALISATRICE)</Service>
+      <Organisme>Auteur indépendant</Organisme>
+      <IdAffiliationAurehal>445889</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_69132">
+      <Prenom>Jean-Marc</Prenom>
+      <Nom>Lévy - Leblond</Nom>
+      <IdAuteurAurehal>169502</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>Jean-Marc Lévy-Leblond pas de service</Service>
+      <Organisme>Université de Nice Sophia Antipolis</Organisme>
+      <IdAffiliationAurehal>422182</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_69199">
+      <Prenom>Pierre-Olivier</Prenom>
+      <Nom>Gaumin</Nom>
+      <IdAuteurAurehal>784306</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRCOM-MULTIMEDIA</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_69303">
+      <Prenom>Véronique</Prenom>
+      <Nom>Cortier</Nom>
+      <IdAuteurAurehal>843354</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CASSIS</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>189789</IdAffiliationAurehal>
+      <Email>cortier@loria.fr</Email>
+   </Auteur>
+   <Auteur id="int_69304">
+      <Prenom>Steve</Prenom>
+      <Nom>Kremer</Nom>
+      <IdAuteurAurehal>651222</IdAuteurAurehal>
+      <IdHal>1307</IdHal>
+      <IdHalAlpha>steve-kremer</IdHalAlpha>
+      <Service>CASSIS</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>189789</IdAffiliationAurehal>
+      <Email>steve.kremer@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_69705">
+      <Prenom>Pierre</Prenom>
+      <Nom>Nolot</Nom>
+      <IdAuteurAurehal>1350325</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_69754">
+      <Prenom>Martin</Prenom>
+      <Nom>Quinson</Nom>
+      <IdAuteurAurehal>1256313</IdAuteurAurehal>
+      <IdHal>6438</IdHal>
+      <IdHalAlpha>martin-quinson</IdHalAlpha>
+      <Service>ALGORILLE</Service>
+      <Organisme>Université de Lorraine</Organisme>
+      <IdAffiliationAurehal>205117</IdAffiliationAurehal>
+      <Email>martin.quinson@loria.fr</Email>
+   </Auteur>
+   <Auteur id="int_69780">
+      <Prenom>Florent</Prenom>
+      <Nom>Jacquemard</Nom>
+      <IdAuteurAurehal>424267</IdAuteurAurehal>
+      <IdHal>3276</IdHal>
+      <IdHalAlpha>florentjacquemard</IdHalAlpha>
+      <Service>MUSYNC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>395501</IdAffiliationAurehal>
+      <Email>florent.jacquemard@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_70054">
+      <Prenom>Gilles</Prenom>
+      <Nom>Vilmart</Nom>
+      <IdAuteurAurehal>1199490</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SECTION DE MATHÉMATIQUES</Service>
+      <Organisme>Université de Genève</Organisme>
+      <IdAffiliationAurehal>230390</IdAffiliationAurehal>
+      <Email>Gilles.Vilmart@unige.ch</Email>
+   </Auteur>
+   <Auteur id="int_70117">
+      <Prenom>Julia</Prenom>
+      <Nom>Lawall</Nom>
+      <IdAuteurAurehal>831063</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Julia Lawall ni organisme ni service (directrice de
+            recherche)</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_70203">
+      <Prenom>Annick</Prenom>
+      <Nom>Lesne</Nom>
+      <IdAuteurAurehal>62934</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DE PHYSIQUE THÉORIQUE DE LA MATIÈRE CONDENSÉE</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1968</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_70459">
+      <Prenom>Olivier</Prenom>
+      <Nom>Teytaud</Nom>
+      <IdAuteurAurehal>660022</IdAuteurAurehal>
+      <IdHal>581</IdHal>
+      <IdHalAlpha>olivier-teytaud</IdHalAlpha>
+      <Service>TAO</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>56057</IdAffiliationAurehal>
+      <Email>olivier.teytaud@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_70687">
+      <Prenom>Shaula</Prenom>
+      <Nom>Fiorelli Vilmart</Nom>
+      <IdAuteurAurehal>951191</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SECTION DE MATHÉMATIQUES</Service>
+      <Organisme>Université de Genève</Organisme>
+      <IdAffiliationAurehal>230390</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_71140">
+      <Prenom>Jérome</Prenom>
+      <Nom>Ardouin</Nom>
+      <IdAuteurAurehal>661126</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HYBRID</Service>
+      <Organisme>ESIEA</Organisme>
+      <IdAffiliationAurehal>210616</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="int_71141">
+      <Prenom>Éric</Prenom>
+      <Nom>Marchand</Nom>
+      <IdAuteurAurehal>194132</IdAuteurAurehal>
+      <IdHal>256</IdHal>
+      <IdHalAlpha>eric-marchand</IdHalAlpha>
+      <Service>HYBRID</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>210616</IdAffiliationAurehal>
+      <Email>eric.marchand@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_71142">
+      <Prenom>Maud</Prenom>
+      <Nom>Marchal</Nom>
+      <IdAuteurAurehal>850406</IdAuteurAurehal>
+      <IdHal>2294</IdHal>
+      <IdHalAlpha>maud-marchal</IdHalAlpha>
+      <Service>HYBRID</Service>
+      <Organisme>INSA Rennes</Organisme>
+      <IdAffiliationAurehal>210616</IdAffiliationAurehal>
+      <Email>Maud.Marchal@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_71502">
+      <Prenom>Antoine</Prenom>
+      <Nom>Rousseau</Nom>
+      <IdAuteurAurehal>208604</IdAuteurAurehal>
+      <IdHal>3416</IdHal>
+      <IdHalAlpha>aroussea</IdHalAlpha>
+      <Service>LEMON</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>241677</IdAffiliationAurehal>
+      <Email>antoine.rousseau@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_71506">
+      <Prenom>Sébastian</Prenom>
+      <Nom>Minjeaud</Nom>
+      <IdAuteurAurehal>654253</IdAuteurAurehal>
+      <IdHal>8680</IdHal>
+      <IdHalAlpha>sebastian-minjeaud</IdHalAlpha>
+      <Service>auteur Sébastian Minjeaud pas de service</Service>
+      <Organisme>CASTOR</Organisme>
+      <IdAffiliationAurehal>217017</IdAffiliationAurehal>
+      <Email>minjeaud@unice.fr</Email>
+   </Auteur>
+   <Auteur id="int_71507">
+      <Prenom>Maëlle</Prenom>
+      <Nom>Nodet</Nom>
+      <IdAuteurAurehal>1112056</IdAuteurAurehal>
+      <IdHal>2149</IdHal>
+      <IdHalAlpha>maelle-nodet</IdHalAlpha>
+      <Service>LABORATOIRE DE MATHÉMATIQUES APPLIQUÉES JEAN KUNTZMANN</Service>
+      <Organisme>Université Grenoble Alpes</Organisme>
+      <IdAffiliationAurehal>24474</IdAffiliationAurehal>
+      <Email>maelle.nodet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="int_71708">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Roussel</Nom>
+      <IdAuteurAurehal>856817</IdAuteurAurehal>
+      <IdHal>65</IdHal>
+      <IdHalAlpha>nicolas-roussel</IdHalAlpha>
+      <Service>MINT</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>432038</IdAffiliationAurehal>
+      <Email>nicolas.roussel@inria.fr</Email>
+   </Auteur>
+   <Auteur id="jalios_5379">
+      <Prenom>Thierry</Prenom>
+      <Nom>Viéville</Nom>
+      <IdAuteurAurehal>219042</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CORTEX</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>205107</IdAffiliationAurehal>
+      <Email>Thierry.Vieville@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_48776">
+      <Prenom>Rolf</Prenom>
+      <Nom>Klein</Nom>
+      <IdAuteurAurehal>1350326</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université de Bonn</Organisme>
+      <IdAffiliationAurehal>300970</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_48777">
+      <Prenom>Tom</Prenom>
+      <Nom>Kamphans</Nom>
+      <IdAuteurAurehal>1350329</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INFORMATIQUE</Service>
+      <Organisme>Université de Braunschweig</Organisme>
+      <IdAffiliationAurehal>71839</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49090">
+      <Prenom>Camélia</Prenom>
+      <Nom>Delgrange</Nom>
+      <IdAuteurAurehal>1350330</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49346">
+      <Prenom>Laurent</Prenom>
+      <Nom>Théry</Nom>
+      <IdAuteurAurehal>184400</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MARELLE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>3208</IdAffiliationAurehal>
+      <Email>Laurent.Thery@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_49364">
+      <Prenom>Maude</Prenom>
+      <Nom>Pupin</Nom>
+      <IdAuteurAurehal>1266724</IdAuteurAurehal>
+      <IdHal>6668</IdHal>
+      <IdHalAlpha>maude-pupin</IdHalAlpha>
+      <Service>LIFL</Service>
+      <Organisme>Université Lille 1</Organisme>
+      <IdAffiliationAurehal>2546</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49376">
+      <Prenom>Jacques</Prenom>
+      <Nom>Tisseau</Nom>
+      <IdAuteurAurehal>84645</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ARÉVI</Service>
+      <Organisme>Ecole Nationale d'Ingénieurs de Brest</Organisme>
+      <IdAffiliationAurehal>33917</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49434">
+      <Prenom>Antony</Prenom>
+      <Nom>Schutz</Nom>
+      <IdAuteurAurehal>1136159</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>SIEPIA</Service>
+      <Organisme>Institut Eurecom</Organisme>
+      <IdAffiliationAurehal>421532</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49590">
+      <Prenom>Alexis</Prenom>
+      <Nom>Nédélec</Nom>
+      <IdAuteurAurehal>899505</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ARÉVI</Service>
+      <Organisme>Ecole Nationale d'Ingénieurs de Brest</Organisme>
+      <IdAffiliationAurehal>33917</IdAffiliationAurehal>
+      <Email>nedelec@enib.fr</Email>
+   </Auteur>
+   <Auteur id="n_49875">
+      <Prenom>Sandrine</Prenom>
+      <Nom>Charles</Nom>
+      <IdAuteurAurehal>1712</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LBBE</Service>
+      <Organisme>Université Lyon 1</Organisme>
+      <IdAffiliationAurehal>10025</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49877">
+      <Prenom>Hubert</Prenom>
+      <Nom>Charles</Nom>
+      <IdAuteurAurehal>395066</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>BF2I</Service>
+      <Organisme>Institut National des Sciences Appliquées de Lyon</Organisme>
+      <IdAffiliationAurehal>9121</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_49947">
+      <Prenom>Philippe</Prenom>
+      <Nom>Richard</Nom>
+      <IdAuteurAurehal>1059183</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>JOURNALISTE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>194058</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_50240">
+      <Prenom>Bruno</Prenom>
+      <Nom>Salvy</Nom>
+      <IdAuteurAurehal>952837</IdAuteurAurehal>
+      <IdHal>5843</IdHal>
+      <IdHalAlpha>bruno-salvy</IdHalAlpha>
+      <Service>ALGORITHMS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>54378</IdAffiliationAurehal>
+      <Email>Bruno.Salvy@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_50419">
+      <Prenom>Hidde</Prenom>
+      <Nom>de Jong</Nom>
+      <IdAuteurAurehal>98354</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IBIS</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>56309</IdAffiliationAurehal>
+      <Email>Hidde.de-Jong@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_50459">
+      <Prenom>Jean - Pierre</Prenom>
+      <Nom>Archambault</Nom>
+      <IdAuteurAurehal>65880</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RETRAITÉ</Service>
+      <Organisme>Centre National de Documentation Pédagogique</Organisme>
+      <IdAffiliationAurehal>307087</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_50513">
+      <Prenom>Benjamin</Prenom>
+      <Nom>Wack</Nom>
+      <IdAuteurAurehal>67367</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIGNANT</Service>
+      <Organisme>Lycée Jean Prevôt Villard-de-Lans</Organisme>
+      <IdAffiliationAurehal>457351</IdAffiliationAurehal>
+      <Email>wack@loria.fr</Email>
+   </Auteur>
+   <Auteur id="n_50778">
+      <Prenom>Jacques</Prenom>
+      <Nom>Nicolas</Nom>
+      <IdAuteurAurehal>1260377</IdAuteurAurehal>
+      <IdHal>5225</IdHal>
+      <IdHalAlpha>jacques-nicolas</IdHalAlpha>
+      <Service>SYMBIOSE</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>2535</IdAffiliationAurehal>
+      <Email>jacques.nicolas@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_50780">
+      <Prenom>Pierre</Prenom>
+      <Nom>Tuffery</Nom>
+      <IdAuteurAurehal>138161</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MTI</Service>
+      <Organisme>Institut National de la Santé et de la Recherche Médicale</Organisme>
+      <IdAffiliationAurehal>95061</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_50905">
+      <Prenom>Jean-Yves</Prenom>
+      <Nom>Marion</Nom>
+      <IdAuteurAurehal>63968</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LORIA / CARTE</Service>
+      <Organisme>Institut National Polytechnique de Lorraine Nancy</Organisme>
+      <IdAffiliationAurehal>29797</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_51484">
+      <Prenom>Christian</Prenom>
+      <Nom>Gautier</Nom>
+      <IdAuteurAurehal>305842</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LBBE</Service>
+      <Organisme>Université Lyon 1</Organisme>
+      <IdAffiliationAurehal>10025</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_51577">
+      <Prenom>Guillaume</Prenom>
+      <Nom>Chelius</Nom>
+      <IdAuteurAurehal>671206</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>D-NET</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>300009</IdAffiliationAurehal>
+      <Email>guillaume.chelius@inria.fr</Email>
+   </Auteur>
+   <Auteur id="n_51740">
+      <Prenom>Jean-Émile</Prenom>
+      <Nom>Meyer</Nom>
+      <IdAuteurAurehal>1350331</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CURIEUX D'INFORMATIQUE</Service>
+      <Organisme>Indépendant</Organisme>
+      <IdAffiliationAurehal>445889</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_51949">
+      <Prenom>Chi Thanh</Prenom>
+      <Nom>Bui</Nom>
+      <IdAuteurAurehal>1350332</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE</Service>
+      <Organisme>Ecole Polytechnique de l'Université de Tours</Organisme>
+      <IdAffiliationAurehal>204893</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_51950">
+      <Prenom>Christophe</Prenom>
+      <Nom>Lenté</Nom>
+      <IdAuteurAurehal>982851</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE D'INFORMATIQUE</Service>
+      <Organisme>Ecole Polytechnique de l'Université de Tours</Organisme>
+      <IdAffiliationAurehal>204893</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="n_52364">
+      <Prenom>Xavier</Prenom>
+      <Nom>Leroy</Nom>
+      <IdAuteurAurehal>1101151</IdAuteurAurehal>
+      <IdHal>592</IdHal>
+      <IdHalAlpha>xavier-leroy</IdHalAlpha>
+      <Service>GALLIUM</Service>
+      <Organisme>INRIA</Organisme>
+      <IdAffiliationAurehal>454329</IdAffiliationAurehal>
+      <Email>Xavier.Leroy@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_74166">
+      <Prenom>Maxime</Prenom>
+      <Nom>Amblard</Nom>
+      <IdAuteurAurehal>949515</IdAuteurAurehal>
+      <IdHal>747</IdHal>
+      <IdHalAlpha>maxime-amblard</IdHalAlpha>
+      <Service>LORIA</Service>
+      <Organisme>Université de Lorraine</Organisme>
+      <IdAffiliationAurehal>206040</IdAffiliationAurehal>
+      <Email>maxime.amblard@loria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_74526">
+      <Prenom>Fabien</Prenom>
+      <Nom>Lotte</Nom>
+      <IdAuteurAurehal>909393</IdAuteurAurehal>
+      <IdHal>4180</IdHal>
+      <IdHalAlpha>fabien-lotte</IdHalAlpha>
+      <Service>POTIOC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>179935</IdAffiliationAurehal>
+      <Email>fabien.lotte@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_74631">
+      <Prenom>Sylvie</Prenom>
+      <Nom>Charbonnier</Nom>
+      <IdAuteurAurehal>1261765</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Université Joseph Fourier Grenoble</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_74632">
+      <Prenom>Alexandre</Prenom>
+      <Nom>Krupa</Nom>
+      <IdAuteurAurehal>781216</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LAGADIC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>2520</IdAffiliationAurehal>
+      <Email>alexandre.krupa@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_74650">
+      <Prenom>Patrick</Prenom>
+      <Nom>Béguery</Nom>
+      <IdAuteurAurehal>581344</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HOMES</Service>
+      <Organisme>Schneider Electric</Organisme>
+      <IdAffiliationAurehal>457605</IdAffiliationAurehal>
+      <Email>patrick.beguery@fr.schneider-electric.com</Email>
+   </Auteur>
+   <Auteur id="ni_74651">
+      <Prenom>Véronique</Prenom>
+      <Nom>Boutin</Nom>
+      <IdAuteurAurehal>1253267</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HOMES</Service>
+      <Organisme>Schneider Electric</Organisme>
+      <IdAffiliationAurehal>457605</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_75107">
+      <Prenom>Alexis</Prenom>
+      <Nom>Joly</Nom>
+      <IdAuteurAurehal>1074290</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ZENITH</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>141072</IdAffiliationAurehal>
+      <Email>alexis.joly@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_75111">
+      <Prenom>Pierre</Prenom>
+      <Nom>Bonnet</Nom>
+      <IdAuteurAurehal>124289</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>AMAP</Service>
+      <Organisme>INRA</Organisme>
+      <IdAffiliationAurehal>609</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_75112">
+      <Prenom>Hervé</Prenom>
+      <Nom>Goëau</Nom>
+      <IdAuteurAurehal>775670</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IMEDIA</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>2424</IdAffiliationAurehal>
+      <Email>herve.goeau@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_75798">
+      <Prenom>Li</Prenom>
+      <Nom>Gong</Nom>
+      <IdAuteurAurehal>1252069</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIMSI</Service>
+      <Organisme>Université Paris Sud</Organisme>
+      <IdAffiliationAurehal>247329</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_76003">
+      <Prenom>Thierry</Prenom>
+      <Nom>Goudon</Nom>
+      <IdAuteurAurehal>378282</IdAuteurAurehal>
+      <IdHal>7768</IdHal>
+      <IdHalAlpha>thierry-goudon</IdHalAlpha>
+      <Service>COFFEE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>168891</IdAffiliationAurehal>
+      <Email>thierry.goudon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76009">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Bloch</Nom>
+      <IdAuteurAurehal>232957</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LTCI</Service>
+      <Organisme>Télécom ParisTech</Organisme>
+      <IdAffiliationAurehal>162010</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_76419">
+      <Prenom>Gilles</Prenom>
+      <Nom>Muller</Nom>
+      <IdAuteurAurehal>481296</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>REGAL</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>454683</IdAffiliationAurehal>
+      <Email>Gilles.Muller@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76504">
+      <Prenom>Michel</Prenom>
+      <Nom>Dhome</Nom>
+      <IdAuteurAurehal>118995</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT PASCAL</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>186882</IdAffiliationAurehal>
+      <Email>dhome@lasmea.univ-bpclermont.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76505">
+      <Prenom>Olivier</Prenom>
+      <Nom>Sename</Nom>
+      <IdAuteurAurehal>763328</IdAuteurAurehal>
+      <IdHal>1618</IdHal>
+      <IdHalAlpha>senameo</IdHalAlpha>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Grenoble INP</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email>olivier.sename@gipsa-lab.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76524">
+      <Prenom>Jonathan</Prenom>
+      <Nom>Aceituno</Nom>
+      <IdAuteurAurehal>1114265</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MINT</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>432038</IdAffiliationAurehal>
+      <Email>jonathan.aceituno@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76960">
+      <Prenom>Hervé</Prenom>
+      <Nom>Guillard</Nom>
+      <IdAuteurAurehal>98097</IdAuteurAurehal>
+      <IdHal>1075</IdHal>
+      <IdHalAlpha>herve-guillard</IdHalAlpha>
+      <Service>CASTOR</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>217017</IdAffiliationAurehal>
+      <Email>Herve.Guillard@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_76961">
+      <Prenom>Maria-Vittoria</Prenom>
+      <Nom>Salvetti</Nom>
+      <IdAuteurAurehal>98095</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIPARTIMENTO DI INGEGNERIA CIVILE E INDUSTRIALE</Service>
+      <Organisme>Université de Pise, Italie</Organisme>
+      <IdAffiliationAurehal>457594</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_77401">
+      <Prenom>Juliette</Prenom>
+      <Nom>Chabassier</Nom>
+      <IdAuteurAurehal>1319163</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAGIQUE 3D</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>55997</IdAffiliationAurehal>
+      <Email>juliette.chabassier@inria.frmarc.durufle@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_77455">
+      <Prenom>Rémi</Prenom>
+      <Nom>Gribonval</Nom>
+      <IdAuteurAurehal>888631</IdAuteurAurehal>
+      <IdHal>1255</IdHal>
+      <IdHalAlpha>remi-gribonval</IdHalAlpha>
+      <Service>PANAMA</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>210613</IdAffiliationAurehal>
+      <Email>Remi.Gribonval@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_77819">
+      <Prenom>Fabien</Prenom>
+      <Nom>Campillo</Nom>
+      <IdAuteurAurehal>662092</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MODEMIC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>141070</IdAffiliationAurehal>
+      <Email>Fabien.Campillo@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_77824">
+      <Prenom>Hélène</Prenom>
+      <Nom>Jaudoin</Nom>
+      <IdAuteurAurehal>1042933</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IRISA</Service>
+      <Organisme>Université Rennes 1</Organisme>
+      <IdAffiliationAurehal>105128</IdAffiliationAurehal>
+      <Email>jaudoin@enssat.fr</Email>
+   </Auteur>
+   <Auteur id="ni_77929">
+      <Prenom>Sylvain</Prenom>
+      <Nom>Lefebvre</Nom>
+      <IdAuteurAurehal>418983</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ALICE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>205118</IdAffiliationAurehal>
+      <Email>sylvain.lefebvre@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_77942">
+      <Prenom>Marc</Prenom>
+      <Nom>Duruflé</Nom>
+      <IdAuteurAurehal>974592</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ENSEIRB-MATMECA</Service>
+      <Organisme>Bordeaux INP</Organisme>
+      <IdAffiliationAurehal>201350</IdAffiliationAurehal>
+      <Email>marc.durufle@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_78177">
+      <Prenom>Erwan</Prenom>
+      <Nom>Le Pennec</Nom>
+      <IdAuteurAurehal>590535</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DÉPARTEMENT DE MATHÉMATIQUES APPLIQUÉES</Service>
+      <Organisme>École Polytechnique</Organisme>
+      <IdAffiliationAurehal>89626</IdAffiliationAurehal>
+      <Email>Erwan.Le_Pennec@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_78529">
+      <Prenom>Laure</Prenom>
+      <Nom>Buhry</Nom>
+      <IdAuteurAurehal>815975</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>NEUROSYS</Service>
+      <Organisme>Université de Lorraine</Organisme>
+      <IdAffiliationAurehal>213693</IdAffiliationAurehal>
+      <Email>laure.buhry@inria.fr</Email>
+   </Auteur>
+   <Auteur id="ni_78959">
+      <Prenom>Rémy</Prenom>
+      <Nom>Chrétien</Nom>
+      <IdAuteurAurehal>1297695</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LSV ENS CACHAN</Service>
+      <Organisme>ANR</Organisme>
+      <IdAffiliationAurehal>2571</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_78960">
+      <Prenom>Stéphanie</Prenom>
+      <Nom>Delaune</Nom>
+      <IdAuteurAurehal>64507</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LSV ENS CACHAN</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>2571</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="ni_79094">
+      <Prenom>Rachid</Prenom>
+      <Nom>Guerraoui</Nom>
+      <IdAuteurAurehal>59155</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>FACULTÉ INFORMATIQUE ET COMMUNICATIONS</Service>
+      <Organisme>EPFL</Organisme>
+      <IdAffiliationAurehal>19835</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_72066">
+      <Prenom>Alexandre</Prenom>
+      <Nom>Bouchet</Nom>
+      <IdAuteurAurehal>815700</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>-</Service>
+      <Organisme>CLARTE</Organisme>
+      <IdAffiliationAurehal>457608</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_72195">
+      <Prenom>Jean-Christophe</Prenom>
+      <Nom>Bach</Nom>
+      <IdAuteurAurehal>1340207</IdAuteurAurehal>
+      <IdHal>915</IdHal>
+      <IdHalAlpha>jcbach</IdHalAlpha>
+      <Service>PAREO</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>205126</IdAffiliationAurehal>
+      <Email>jeanchristophe.bach@inria.fr</Email>
+   </Auteur>
+   <Auteur id="nn_72334">
+      <Prenom>Nicolas</Prenom>
+      <Nom>Rougier</Nom>
+      <IdAuteurAurehal>945983</IdAuteurAurehal>
+      <IdHal>524</IdHal>
+      <IdHalAlpha>nicolas-p-rougier</IdHalAlpha>
+      <Service>MNEMOSYNE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>188658</IdAffiliationAurehal>
+      <Email>Nicolas.Rougier@inria.fr</Email>
+   </Auteur>
+   <Auteur id="nn_72837">
+      <Prenom>France</Prenom>
+      <Nom>Caron</Nom>
+      <IdAuteurAurehal>1350333</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DÉPARTEMENT DE DIDACTIQUE</Service>
+      <Organisme>Université de Montréal</Organisme>
+      <IdAffiliationAurehal>258742</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_72838">
+      <Prenom>André</Prenom>
+      <Nom>Garon</Nom>
+      <IdAuteurAurehal>1137865</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LADYF</Service>
+      <Organisme>École Polytechnique de Montréal</Organisme>
+      <IdAffiliationAurehal>457604</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_73064">
+      <Prenom>David</Prenom>
+      <Nom>Lannes</Nom>
+      <IdAuteurAurehal>1041152</IdAuteurAurehal>
+      <IdHal>2068</IdHal>
+      <IdHalAlpha>david-lannes</IdHalAlpha>
+      <Service>DMA ENS</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>66</IdAffiliationAurehal>
+      <Email>lannes@math.u-bordeaux1.fr</Email>
+   </Auteur>
+   <Auteur id="nn_73212">
+      <Prenom>David</Prenom>
+      <Nom>Gross-Amblard</Nom>
+      <IdAuteurAurehal>707232</IdAuteurAurehal>
+      <IdHal>1379</IdHal>
+      <IdHalAlpha>david-gross-amblard</IdHalAlpha>
+      <Service>IRISA</Service>
+      <Organisme>Université de Rennes 1</Organisme>
+      <IdAffiliationAurehal>105128</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_73235">
+      <Prenom>Bertrand</Prenom>
+      <Nom>Putigny</Nom>
+      <IdAuteurAurehal>668038</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>RUNTIME</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>56003</IdAffiliationAurehal>
+      <Email>bertrand.putigny@inria.fr</Email>
+   </Auteur>
+   <Auteur id="nn_73604">
+      <Prenom>Sylviane</Prenom>
+      <Nom>Gentil</Nom>
+      <IdAuteurAurehal>110277</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>GIPSA-LAB</Service>
+      <Organisme>Grenoble INP</Organisme>
+      <IdAffiliationAurehal>24470</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_73607">
+      <Prenom>Pierre</Prenom>
+      <Nom>Duhamel</Nom>
+      <IdAuteurAurehal>201245</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LABORATOIRE DES SIGNAUX ET SYSTÈMES</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1289</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="nn_73791">
+      <Prenom>Didier</Prenom>
+      <Nom>Certain</Nom>
+      <IdAuteurAurehal>1350341</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ISTIC</Service>
+      <Organisme>Université de Rennes 1</Organisme>
+      <IdAffiliationAurehal>231389</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_80844">
+      <Prenom>Laetitia</Prenom>
+      <Nom>Jourdan</Nom>
+      <IdAuteurAurehal>89191</IdAuteurAurehal>
+      <IdHal>2380</IdHal>
+      <IdHalAlpha>laetitia-jourdan</IdHalAlpha>
+      <Service>auteur Laetitia Jourdan ni organisme ni service</Service>
+      <Organisme>DOLPHIN</Organisme>
+      <IdAffiliationAurehal>432029</IdAffiliationAurehal>
+      <Email>jourdan@lifl.fr</Email>
+   </Auteur>
+   <Auteur id="p_80896">
+      <Prenom>Gildas</Prenom>
+      <Nom>Avoine</Nom>
+      <IdAuteurAurehal>1115756</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>EMSEC</Service>
+      <Organisme>INSA Rennes</Organisme>
+      <IdAffiliationAurehal>410024</IdAffiliationAurehal>
+      <Email>gildas.avoine@irisa.fr</Email>
+   </Auteur>
+   <Auteur id="p_80912">
+      <Prenom>Gilles</Prenom>
+      <Nom>Gravier</Nom>
+      <IdAuteurAurehal>1350342</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>R &amp; D</Service>
+      <Organisme>ID Quantique</Organisme>
+      <IdAffiliationAurehal>141474</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_80961">
+      <Prenom>Pierre</Prenom>
+      <Nom>Senellart</Nom>
+      <IdAuteurAurehal>444588</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DÉPARTEMENT INFORMATIQUE ET RÉSEAUX</Service>
+      <Organisme>Télécom Paris Tech</Organisme>
+      <IdAffiliationAurehal>121818</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_81406">
+      <Prenom>Jules</Prenom>
+      <Nom>Espiau de Lamaëstre</Nom>
+      <IdAuteurAurehal>589557</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>?</Service>
+      <Organisme>?</Organisme>
+      <IdAffiliationAurehal>jules.espiau_de_lamaestre@inria.fr</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_81407">
+      <Prenom>Laurent</Prenom>
+      <Nom>Daudet</Nom>
+      <IdAuteurAurehal>136175</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>INSTITUT LANGEVIN</Service>
+      <Organisme>ESPCI</Organisme>
+      <IdAffiliationAurehal>129664</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_81408">
+      <Prenom>Nancy</Prenom>
+      <Nom>Bertin</Nom>
+      <IdAuteurAurehal>571021</IdAuteurAurehal>
+      <IdHal>4797</IdHal>
+      <IdHalAlpha>nbertin</IdHalAlpha>
+      <Service>PANAMA</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>210613</IdAffiliationAurehal>
+      <Email>nancy.bertin@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_82211">
+      <Prenom>Arnaud</Prenom>
+      <Nom>Lionnet</Nom>
+      <IdAuteurAurehal>1263408</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MATHRISK</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>454658</IdAffiliationAurehal>
+      <Email>arnaud.lionnet@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_82496">
+      <Prenom>Anke</Prenom>
+      <Nom>Brock</Nom>
+      <IdAuteurAurehal>1108829</IdAuteurAurehal>
+      <IdHal>128</IdHal>
+      <IdHalAlpha>ankebrock</IdHalAlpha>
+      <Service>POTIOC</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>179935</IdAffiliationAurehal>
+      <Email>anke.brock@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_82557">
+      <Prenom>Giuseppe</Prenom>
+      <Nom>Longo</Nom>
+      <IdAuteurAurehal>1269204</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Giuseppe Longo ni organisme ni service</Service>
+      <Organisme>? CNRS</Organisme>
+      <IdAffiliationAurehal>NULL</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_82611">
+      <Prenom>Christian</Prenom>
+      <Nom>Queinnec</Nom>
+      <IdAuteurAurehal>45723</IdAuteurAurehal>
+      <IdHal>3794</IdHal>
+      <IdHalAlpha>christian-queinnec</IdHalAlpha>
+      <Service>LIP6</Service>
+      <Organisme>UPMC</Organisme>
+      <IdAffiliationAurehal>233</IdAffiliationAurehal>
+      <Email>Christian.Queinnec@lip6.fr</Email>
+   </Auteur>
+   <Auteur id="p_83443">
+      <Prenom>Matthieu</Prenom>
+      <Nom>Latapy</Nom>
+      <IdAuteurAurehal>707641</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIP6</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>233</IdAffiliationAurehal>
+      <Email>Matthieu.Latapy@lip6.fr</Email>
+   </Auteur>
+   <Auteur id="p_83902">
+      <Prenom>Claude</Prenom>
+      <Nom>Kaiser</Nom>
+      <IdAuteurAurehal>937795</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CEDRIC</Service>
+      <Organisme>CNAM</Organisme>
+      <IdAffiliationAurehal>207447</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_84011">
+      <Prenom>Anne-Cécile</Prenom>
+      <Nom>Orgerie</Nom>
+      <IdAuteurAurehal>695276</IdAuteurAurehal>
+      <IdHal>5283</IdHal>
+      <IdHalAlpha>orgerie</IdHalAlpha>
+      <Service>MYRIADS</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>106587</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_84012">
+      <Prenom>Françoise</Prenom>
+      <Nom>Berthoud</Nom>
+      <IdAuteurAurehal>1266282</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LPMMC</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>688</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_84013">
+      <Prenom>Éric</Prenom>
+      <Nom>Drezet</Nom>
+      <IdAuteurAurehal>1266362</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>CRHEA</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>409</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_84014">
+      <Prenom>Laurent</Prenom>
+      <Nom>Lefèvre</Nom>
+      <IdAuteurAurehal>81044</IdAuteurAurehal>
+      <IdHal>5028</IdHal>
+      <IdHalAlpha>laurentlefevre</IdHalAlpha>
+      <Service>AVALON</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>179717</IdAffiliationAurehal>
+      <Email>laurent.lefevre@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_84146">
+      <Prenom>Christian</Prenom>
+      <Nom>Duriez</Nom>
+      <IdAuteurAurehal>711123</IdAuteurAurehal>
+      <IdHal>4013</IdHal>
+      <IdHalAlpha>christian-duriez</IdHalAlpha>
+      <Service>DEFROST</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>409871</IdAffiliationAurehal>
+      <Email>christian.duriez@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_85134">
+      <Prenom>Ikram</Prenom>
+      <Nom>Chraibi Kaadoud</Nom>
+      <IdAuteurAurehal>1247964</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MNEMOSYNE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>188658</IdAffiliationAurehal>
+      <Email>ikram.chraibi-kaadoud@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_85614">
+      <Prenom>Hervé</Prenom>
+      <Nom>Le Treut</Nom>
+      <IdAuteurAurehal>96310</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IPSL</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1899</IdAffiliationAurehal>
+      <Email>letreut@lmd.ens.fr</Email>
+   </Auteur>
+   <Auteur id="p_85934">
+      <Prenom>Benoit</Prenom>
+      <Nom>Baudry</Nom>
+      <IdAuteurAurehal>169022</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIVERSE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>239954</IdAffiliationAurehal>
+      <Email>Benoit.Baudry@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_85949">
+      <Prenom>Stéphane</Prenom>
+      <Nom>Grumbach</Nom>
+      <IdAuteurAurehal>1245432</IdAuteurAurehal>
+      <IdHal>1564</IdHal>
+      <IdHalAlpha>sgrumbach</IdHalAlpha>
+      <Service>DICE</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>218317</IdAffiliationAurehal>
+      <Email>Stephane.Grumbach@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_85978">
+      <Prenom>Vincent</Prenom>
+      <Nom>Roca</Nom>
+      <IdAuteurAurehal>753929</IdAuteurAurehal>
+      <IdHal>552</IdHal>
+      <IdHalAlpha>vincent-roca</IdHalAlpha>
+      <Service>auteur vincent Roca ni organisme ni service</Service>
+      <Organisme>PRIVATICS</Organisme>
+      <IdAffiliationAurehal>206120</IdAffiliationAurehal>
+      <Email>vincent.roca@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_86023">
+      <Prenom>Philippe</Prenom>
+      <Nom>Drobinski</Nom>
+      <IdAuteurAurehal>603785</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>ECOLE POLYTECHNIQUE</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1899</IdAffiliationAurehal>
+      <Email>philippe.drobinski@lmd.polytechnique.fr</Email>
+   </Auteur>
+   <Auteur id="p_86054">
+      <Prenom>Isabelle</Prenom>
+      <Nom>Collet</Nom>
+      <IdAuteurAurehal>1350343</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Isabelle Collet ni organisme ni service</Service>
+      <Organisme>Université de Genève</Organisme>
+      <IdAffiliationAurehal>154620</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_86374">
+      <Prenom>Victoria</Prenom>
+      <Nom>Denys</Nom>
+      <IdAuteurAurehal>1350344</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>DIRCOM</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>457347</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_86650">
+      <Prenom>Clémentine</Prenom>
+      <Nom>Prieur</Nom>
+      <IdAuteurAurehal>67587</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>AIRSEA</Service>
+      <Organisme>Université de Grenoble</Organisme>
+      <IdAffiliationAurehal>411700</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_86728">
+      <Prenom>Antoine</Prenom>
+      <Nom>Liutkus</Nom>
+      <IdAuteurAurehal>995673</IdAuteurAurehal>
+      <IdHal>2740</IdHal>
+      <IdHalAlpha>antoine-liutkus</IdHalAlpha>
+      <Service>MULTISPEECH</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>420403</IdAffiliationAurehal>
+      <Email>antoine.liutkus@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_87389">
+      <Prenom>Gilles</Prenom>
+      <Nom>Simon</Nom>
+      <IdAuteurAurehal>100927</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAGRIT</Service>
+      <Organisme>Université de Lorraine</Organisme>
+      <IdAffiliationAurehal>205123</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_87517">
+      <Prenom>Denis</Prenom>
+      <Nom>Dupré</Nom>
+      <IdAuteurAurehal>974287</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Denis Dupré ni organisme ni service</Service>
+      <Organisme>STEEP</Organisme>
+      <IdAffiliationAurehal>108956</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_87760">
+      <Prenom>Marie-Alice</Prenom>
+      <Nom>Foujols</Nom>
+      <IdAuteurAurehal>690930</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IPSL</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>1899</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_87782">
+      <Prenom>Thomas</Prenom>
+      <Nom>Erneux</Nom>
+      <IdAuteurAurehal>389199</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Thomas Erneux ni organisme ni service</Service>
+      <Organisme>Université libre de Bruxelles</Organisme>
+      <IdAffiliationAurehal>92969</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_87783">
+      <Prenom>Pietro-Luciano</Prenom>
+      <Nom>Buono</Nom>
+      <IdAuteurAurehal>1350345</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>auteur Pietro-Luciano Buono ni organisme ni service</Service>
+      <Organisme>?</Organisme>
+      <IdAffiliationAurehal/>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_88410">
+      <Prenom>Alexandre</Prenom>
+      <Nom>Gramfort</Nom>
+      <IdAuteurAurehal>365517</IdAuteurAurehal>
+      <IdHal>687</IdHal>
+      <IdHalAlpha>agramfort</IdHalAlpha>
+      <Service>LTCI</Service>
+      <Organisme>Télécom ParisTech</Organisme>
+      <IdAffiliationAurehal>162010</IdAffiliationAurehal>
+      <Email>alexandre.gramfort@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_88523">
+      <Prenom>Lucile</Prenom>
+      <Nom>Dupuy</Nom>
+      <IdAuteurAurehal>1045730</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PHOENIX</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>2332</IdAffiliationAurehal>
+      <Email>lucile.dupuy@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_88524">
+      <Prenom>Charles</Prenom>
+      <Nom>Consel</Nom>
+      <IdAuteurAurehal>98197</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PHOENIX</Service>
+      <Organisme>ENSEIRB-MATMECA</Organisme>
+      <IdAffiliationAurehal>2332</IdAffiliationAurehal>
+      <Email>charles.consel@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_88525">
+      <Prenom>Hélène</Prenom>
+      <Nom>Sauzéon</Nom>
+      <IdAuteurAurehal>1181946</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>PHOENIX</Service>
+      <Organisme>Université de Bordeaux</Organisme>
+      <IdAffiliationAurehal>2332</IdAffiliationAurehal>
+      <Email>helene.sauzeon@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_88916">
+      <Prenom>Henri</Prenom>
+      <Nom>Prade</Nom>
+      <IdAuteurAurehal>48770</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>IRIT</Service>
+      <Organisme>CNRS</Organisme>
+      <IdAffiliationAurehal>34499</IdAffiliationAurehal>
+      <Email>prade@irit.fr</Email>
+   </Auteur>
+   <Auteur id="p_89080">
+      <Prenom>Yann</Prenom>
+      <Nom>LeCun</Nom>
+      <IdAuteurAurehal>565840</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>FAIR</Service>
+      <Organisme>Université de New York</Organisme>
+      <IdAffiliationAurehal>267305</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_89145">
+      <Prenom>Xavier</Prenom>
+      <Nom>Tannier</Nom>
+      <IdAuteurAurehal>154059</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LIMSI</Service>
+      <Organisme>Université Paris Sud</Organisme>
+      <IdAffiliationAurehal>247329</IdAffiliationAurehal>
+      <Email/>
+   </Auteur>
+   <Auteur id="p_89567">
+      <Prenom>Marie-Odile</Prenom>
+      <Nom>Berger</Nom>
+      <IdAuteurAurehal>869821</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>MAGRIT</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>205123</IdAffiliationAurehal>
+      <Email>marie-odile.berger@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_89620">
+      <Prenom>Serena</Prenom>
+      <Nom>Ivaldi</Nom>
+      <IdAuteurAurehal>1275227</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>LARSEN</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>415996</IdAffiliationAurehal>
+      <Email>E-mailserena.ivaldi@inria.fr</Email>
+   </Auteur>
+   <Auteur id="p_90084">
+      <Prenom>Damien</Prenom>
+      <Nom>Eveillard</Nom>
+      <IdAuteurAurehal>73614</IdAuteurAurehal>
+      <IdHal>95</IdHal>
+      <IdHalAlpha>damien-eveillard</IdHalAlpha>
+      <Service>auteur Damien Eveillard ni organisme ni service</Service>
+      <Organisme>LINA</Organisme>
+      <IdAffiliationAurehal>95421</IdAffiliationAurehal>
+      <Email>damien.eveillard@univ-nantes.fr</Email>
+   </Auteur>
+   <Auteur id="p_90150">
+      <Prenom>Bernard</Prenom>
+      <Nom>Senach</Nom>
+      <IdAuteurAurehal>97774</IdAuteurAurehal>
+      <IdHal/>
+      <IdHalAlpha/>
+      <Service>HEPHAISTOS</Service>
+      <Organisme>Inria</Organisme>
+      <IdAffiliationAurehal>241669</IdAffiliationAurehal>
+      <Email>Bernard.Senach@inria.fr</Email>
+   </Auteur>
+</Auteurs>
